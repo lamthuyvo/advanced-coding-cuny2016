@@ -1,4 +1,5 @@
-Advanced coding 
+## **Advanced coding ** 
+
 
 ## **Course Description** 
 
@@ -30,7 +31,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>3</td>
     <td>Tuesday</td>
     <td>9/13/2016</td>
-    <td>Static vs. interactive graphic; data formatting and Github review</td>
+    <td>Static vs. interactive graphic; data formatting,  Github review; media queries</td>
     <td>Draft news assigment due</td>
   </tr>
   <tr>
@@ -44,7 +45,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>5</td>
     <td>Tuesday</td>
     <td>9/27/2016</td>
-    <td>What's my data story? Finding insights in data via analysis and reporting (part 1); responsive design; ai2html (part 2)</td>
+    <td>What's my data story? Finding insights in data via analysis and reporting (part 1); ai2html (part 2)</td>
     <td>Pitch for news app due</td>
   </tr>
   <tr>
@@ -86,7 +87,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>9</td>
     <td>Tuesday</td>
     <td>11/1/2016</td>
-    <td>UX design, underscore.js</td>
+    <td>Principles of organizing information,UX design, underscore.js</td>
     <td>Data visualization (interactive) pitch due</td>
   </tr>
   <tr>
@@ -237,6 +238,8 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 ### **Lesson 1 (Tuesday, August 30)**
 
+**Introductions**: Give me your info! ([form](https://docs.google.com/forms/d/e/1FAIpQLSfjZ97_AqMRnlh4D_eJcjZyJLP_QxGjfEBmKoI8haDr2y29ng/viewform))
+
 **Topics**: The news nerd cosmos — How you might fit in it ([slides](https://docs.google.com/presentation/d/1atfuvnwA7vOzce7woibWPVZis6UMP7Z5gQr248qPnfA/edit?usp=sharing))
 
 **Craft:** The art of a beat memo ([slides](https://docs.google.com/presentation/d/1WrNbi1NB0TvURC0MUQ25-DyFiEMbNlHM6NwhX3hKvB8/edit?usp=sharing))
@@ -273,7 +276,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Craft: **Data formatting — data structures for different data visualizations; from csv to json to  columns (slides)
 
-**Tech: **Github (the solo version) — setting up a project, version control and collaboration (slides) 
+**Tech: **Github (the solo version) — setting up a project, version control and collaboration (slides) | Responsive web design and the art of media queries (slides)
 
 **Homework (Assignment 1): **
 
@@ -303,7 +306,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Topics: **What’s my data story? Finding insights in data (slides) ** **
 
-**Craft:  **Responsive web design and the art of media queries (slides)
+**Craft:  **Object oriented CSS (slides)
 
 **Tech:** Ai2HTML (slides)
 
@@ -352,9 +355,11 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 ### **Lesson 9 (November 1, 2016)**
 
-**Topics: **UX design — how to help viewers learn to play with your stuff (slides)
+**Topics: **Principles of organizing information (slides) 
 
-**Tech:**** **Underscore.js — accessing, manipulating and sorting data** **(slides)**In-class lab: **Work on your assignment; present your work
+**Craft**: Lean** **UX design (slides) 
+
+**Tech:**** **Underscore.js — accessing, manipulating and sorting data** **(slides)
 
 **Homework (Assignment 3):**
 
@@ -484,5 +489,6 @@ Data, persuasion and truth: when it comes to disputed subjects people tend to st
 **Statistics tutorials:**
 Hyperstat [http://davidmlane.com/hyperstat/](http://davidmlane.com/hyperstat/). 
 Stat Trek [http://stattrek.com/tutorials/statistics-tutorial.aspx](http://stattrek.com/tutorials/statistics-tutorial.aspx) 
+
 
 
