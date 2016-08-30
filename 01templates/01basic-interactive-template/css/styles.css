@@ -1,0 +1,279 @@
+/* 
+ * styles.css
+ *
+ * @author: Chopping Block (choppinblock.com)
+ *
+ */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	font-family:  Georgia, serif;
+	color: #787878;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+i{
+	font-style: italic;
+    font-weight: 200;
+
+}
+
+
+/* Your styles go here */
+
+h1, h2, h3, h4, h5, h6{
+	font-family:'Source Sans Pro', Helvetica, Arial, sans-serif;
+	
+}
+
+h1{
+	font-size: 2em;
+	color:#37424A;
+	text-align: center;
+	line-height: 2em;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+a {
+    color: #b84ab4;
+    text-decoration: none;
+}
+
+.first-graph:first-letter { 
+	float: left; 
+	color: #37424A; 
+	font-size: 2.5em; 
+	line-height: 1em; 
+	padding-top: 4px; 
+	padding-right: 10px; 
+	padding-left: 3px; 
+	font-family: Georgia, serif; 
+}
+
+
+ p{
+    font-family:  Garamond, serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #393939;
+    padding-bottom: 1.5em;
+
+}
+
+.wrap{
+	position: absolute;
+	width:100%;
+}
+
+
+.content{
+	width:50%;
+	margin:0 auto;
+	max-width:600px;
+	text-align: justify;
+}
+
+
+
+.button {
+	font-family:'Source Sans Pro', Helvetica, Arial, sans-serif; 
+	color: #fff ;
+    background-color:  #7c7c7d;
+    font-weight: normal;
+	display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid #7c7c7d;
+    border-radius: 4px;
+}
+
+.button:hover {
+  background: #888;
+  text-decoration: none;
+  
+}
+
+
+.mobile{
+	display:none;
+}
+
+.desktop{
+	display:block;
+}
+
+.legend{
+	width:100%;
+}
+
+.legend-text{
+	 float:left;
+}
+
+.legend-box{
+    padding-right: 10px;
+    float: left;
+    width: 46%;
+}
+
+.footnote{
+	font-size: 0.8em;
+    color: #888;
+    line-height: 1.5em;
+    clear: both;
+}
+
+
+/* Media queries */
+
+@media (max-width:480px) {
+	.content{
+		width:90%;
+	}
+	.mobile{
+		display:block;
+	}
+	.desktop{
+		display:none;
+	}
+	p{
+		font-size:14px;
+		padding-bottom: 1em;
+	}
+	.button-container{
+		text-align: center;
+	}
+
+	h1 {
+	    font-size: 1.5em;
+	    line-height: 1em;
+	    margin-bottom: 15px;
+	    margin-top: 15px;
+	}	
+
+}
+
+/*Chart colors*/
+
+
+.yellow1{color:#403B00;}
+.yellow2{color:#807600;}
+.yellow3{color:#FFEC00;}
+.yellow4{color:#FFF799;}
+.yellow5{color:#FFFBCC;}
+
+.orange1{color:#331F02;}
+.orange2{color:#673F05;}
+.orange3{color:#CE7D09;}
+.orange4{color:#D8973A;}
+.orange5{color:#EBCB9D;}
+
+.red1{color: #401819;}
+.red2{color: #803133;}
+.red3{color: #FF6165;}
+.red4{color: #FFA0A3;}
+.red5{color: #FFDFE0;}
+
+.green1{color: #0A2C27;}
+.green2{color: #15574D;}
+.green3{color: #01f7b6;}
+.green4{color: #7FCEC2;}
+.green5{color: #D4EFEB;}
+
+.blue1{color: #051427;}
+.blue2{color: #09284E;}
+.blue3{color: #12509B;}
+.blue4{color: #7196C3;}
+.blue5{color: #D0DCEB;}
+
+
+
+.yellow1-bg{background-color:#403B00;}
+.yellow2-bg{background-color:#807600;}
+.yellow3-bg{background-color:#FFEC00;}
+.yellow4-bg{background-color:#FFF799;}
+.yellow5-bg{background-color:#FFFBCC;}
+
+.orange1-bg{background-color:#331F02;}
+.orange2-bg{background-color:#673F05;}
+.orange3-bg{background-color:#CE7D09;}
+.orange4-bg{background-color:#D8973A;}
+.orange5-bg{background-color:#EBCB9D;}
+
+.red1-bg{background-color: #401819;}
+.red2-bg{background-color: #803133;}
+.red3-bg{background-color: #FF6165;}
+.red4-bg{background-color: #FFA0A3;}
+.red5-bg{background-color: #FFDFE0;}
+
+.green1-bg{background-color: #0A2C27;}
+.green2-bg{background-color: #15574D;}
+.green3-bg{background-color: #01f7b6;}
+.green4-bg{background-color: #7FCEC2;}
+.green5-bg{background-color: #D4EFEB;}
+
+.blue1-bg{background-color: #051427;}
+.blue2-bg{background-color: #09284E;}
+.blue3-bg{background-color: #12509B;}
+.blue4-bg{background-color: #7196C3;}
+.blue5-bg{background-color: #D0DCEB;}
+
+
