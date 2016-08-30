@@ -1,4 +1,4 @@
-## **Advanced coding ** 
+## Advanced coding 
 
 
 ## **Course Description** 
