@@ -3,7 +3,7 @@
 
 ## **Course Description** 
 
-This three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects. 
+YThis three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects. 
 
 <table>
   <tr>
@@ -12,12 +12,16 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>Dates</td>
     <td>Subjects</td>
     <td>Work due</td>
+    <td>Guest speaker</td>
+    <td>Presenter</td>
   </tr>
   <tr>
     <td>1</td>
     <td>Tuesday</td>
     <td>8/30/2016</td>
-    <td>News dev community & beat memos</td>
+    <td>News dev community & beat memo</td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -25,42 +29,54 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>Tuesday</td>
     <td>9/6/2016</td>
     <td>Data from your beat (types of data); data headaches and how to salvage them</td>
-    <td>Pitch for news assignment due</td>
+    <td>Pitch news assignment </td>
+    <td></td>
+    <td>Michael </td>
   </tr>
   <tr>
     <td>3</td>
     <td>Tuesday</td>
     <td>9/13/2016</td>
     <td>Static vs. interactive graphic; data formatting,  Github review; media queries</td>
-    <td>Draft news assigment due</td>
+    <td>Draft news assigment</td>
+    <td>Andrew Van Dam, graphics reporter, WSJ</td>
+    <td>Johanna</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Tuesday</td>
     <td>9/20/2016</td>
     <td>Multi-screen graphics, illustrator (review and advanced tricks); AI2html introduction/installation</td>
-    <td>Final news assignment due</td>
+    <td>Final news assignment </td>
+    <td>Azmat Khan, formerly at BuzzFeed</td>
+    <td>Rhea</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Tuesday</td>
     <td>9/27/2016</td>
     <td>What's my data story? Finding insights in data via analysis and reporting (part 1); ai2html (part 2)</td>
-    <td>Pitch for news app due</td>
+    <td>Pitch for news app </td>
+    <td>Coulter Jones, data reporter, WSJ </td>
+    <td>Noah</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Tuesday</td>
     <td>10/4/2016</td>
     <td>What's my data story? All the iterations of a data story (part 2); pseudocoding; simple app</td>
-    <td>Draft for news app due</td>
+    <td>Draft for news app </td>
+    <td>Sarah Squire, Dowjones Media Group</td>
+    <td>Kathryn</td>
   </tr>
   <tr>
     <td>7</td>
     <td>Tuesday</td>
     <td>10/11/2016</td>
     <td>The considerate coder - clean code; check yourself, before your wreck yourself; browser and device testing</td>
-    <td>Final news app due</td>
+    <td>Final news app </td>
+    <td>Karen Zraick, foreign desk, New York Times (tentative) </td>
+    <td>Brandon</td>
   </tr>
   <tr>
     <td>8</td>
@@ -68,11 +84,15 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>10/14/2016</td>
     <td>Go, team go!; github for team players</td>
     <td></td>
+    <td>Nadja Popovich, interactive developer, The Guardian</td>
+    <td>Nicole</td>
   </tr>
   <tr>
     <td>NO CLASS</td>
     <td></td>
     <td>10/18/2016</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -82,48 +102,62 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>10/25/2016</td>
     <td></td>
     <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>Tuesday</td>
     <td>11/1/2016</td>
-    <td>Principles of organizing information,UX design, underscore.js</td>
-    <td>Data visualization (interactive) pitch due</td>
+    <td>Principles of organizing information, UX design, underscore.js</td>
+    <td>Data visualization (interactive) pitch </td>
+    <td></td>
+    <td>Sandeep</td>
   </tr>
   <tr>
     <td>10</td>
     <td>Tuesday</td>
     <td>11/8/2016</td>
     <td>personalization, chosen.js</td>
-    <td>Data visualization (interactive) draft due</td>
+    <td>Data visualization (interactive) draft </td>
+    <td></td>
+    <td>Noah</td>
   </tr>
   <tr>
     <td>11</td>
     <td>Wednesday</td>
     <td>11/16/2016</td>
     <td>interactive methods; D3.js (part 1)</td>
-    <td>Final data visualization (interactive) due</td>
+    <td>Final data visualization (interactive) </td>
+    <td></td>
+    <td>Kathryn</td>
   </tr>
   <tr>
     <td>12</td>
     <td>Tuesday</td>
     <td>11/22/2016</td>
     <td>D3.js (part 2)</td>
-    <td>Pitch team project due</td>
+    <td>Pitch team project </td>
+    <td></td>
+    <td>Brandon</td>
   </tr>
   <tr>
     <td>13</td>
     <td>Tuesday</td>
     <td>11/29/2016</td>
     <td>D3.js (part 3)</td>
-    <td>Draft team project due</td>
+    <td>Draft team project </td>
+    <td></td>
+    <td>Nicole</td>
   </tr>
   <tr>
     <td>14</td>
     <td>Tuesday</td>
     <td>12/6/2016</td>
     <td>Growing as a coder</td>
-    <td>Final projects due (presentation in class)</td>
+    <td>Final projects (presentation in class)</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -170,7 +204,7 @@ All assignments will require a total of 250- to 500-words to accompany the inter
 
 2. Build a data-driven news feature that is produced by using AI2HTML. **Lesson 7, October 11 by Noon**
 
-3. Create a news app that allows people to understand a data set using a dropdown menu, searchable bar or other interactive component. **Lesson 11, Nov. 16 by Noon.**
+3. Create a news app that allows people to understand a data set using a dropdown menu, searchable bar or other interactive component. The dropdown menu should change something in your app — text, a graphic, a table — to give new, personal insights t the data set. **Lesson 11, Nov. 16 by Noon.**
 
 4. Produce a team project that explores a single timely and complex topic from different angles using the skills and story forms acquired during the semester. **Final due lesson 14, Dec. 6 by Noon.**
 
@@ -264,7 +298,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Craft:** Data headaches — my favorite (advanced) things in Excel and Google Refine (slides)
 
-**Tech: **Take that, dirty data! More advanced Google Refine data cleaning, in-class exercise (slides) | Intro to your code template (template)
+**Tech: **Take that, dirty data! More advanced Google Refine data cleaning, in-class exercise (slides) 
 
 **Homework (Assignment 1): **
 
@@ -276,7 +310,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Craft: **Data formatting — data structures for different data visualizations; from csv to json to  columns (slides)
 
-**Tech: **Github (the solo version) — setting up a project, version control and collaboration (slides) | Responsive web design and the art of media queries (slides)
+**Tech:** Intro to your code template (template) | Responsive web design and the art of media queries (slides)
 
 **Homework (Assignment 1): **
 
@@ -489,6 +523,4 @@ Data, persuasion and truth: when it comes to disputed subjects people tend to st
 **Statistics tutorials:**
 Hyperstat [http://davidmlane.com/hyperstat/](http://davidmlane.com/hyperstat/). 
 Stat Trek [http://stattrek.com/tutorials/statistics-tutorial.aspx](http://stattrek.com/tutorials/statistics-tutorial.aspx) 
-
-
 
