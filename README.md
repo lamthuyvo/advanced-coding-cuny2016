@@ -30,7 +30,7 @@ YThis three-credit course will introduce students to effective, data-driven inte
     <td>9/6/2016</td>
     <td>Data from your beat (types of data); data headaches and how to salvage them</td>
     <td>Pitch news assignment </td>
-    <td></td>
+    <td>Andrew Van Dam, graphics reporter, WSJ</td>
     <td>Michael </td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ YThis three-credit course will introduce students to effective, data-driven inte
     <td>9/13/2016</td>
     <td>Static vs. interactive graphic; data formatting,  Github review; media queries</td>
     <td>Draft news assigment</td>
-    <td>Andrew Van Dam, graphics reporter, WSJ</td>
+    <td></td>
     <td>Johanna</td>
   </tr>
   <tr>
