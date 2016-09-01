@@ -3,7 +3,7 @@
 
 ## **Course Description** 
 
-YThis three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects. 
+This three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects. 
 
 <table>
   <tr>
