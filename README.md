@@ -30,7 +30,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>9/6/2016</td>
     <td>Data from your beat (types of data); data headaches and how to salvage them</td>
     <td>Pitch news assignment </td>
-    <td>Andrew Van Dam, graphics reporter, WSJ</td>
+    <td></td>
     <td>Michael </td>
   </tr>
   <tr>
@@ -38,8 +38,8 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>Tuesday</td>
     <td>9/13/2016</td>
     <td>Static vs. interactive graphic; data formatting,  Github review; media queries</td>
-    <td>Draft news assigment</td>
-    <td></td>
+    <td>Draft news assignment</td>
+    <td>Andrew Van Dam, graphics reporter, WSJ</td>
     <td>Johanna</td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>11/1/2016</td>
     <td>Principles of organizing information, UX design, underscore.js</td>
     <td>Data visualization (interactive) pitch </td>
-    <td></td>
+    <td>Alvin Chang, graphics reporter, Vox.com</td>
     <td>Sandeep</td>
   </tr>
   <tr>
