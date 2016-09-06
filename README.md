@@ -248,6 +248,40 @@ Grading for individual assignments is based on the level of professionalism of t
 
 * F Late, unacceptable work.
 
+### **Final Grading**
+
+<table>
+  <tr>
+    <td>Assignment</td>
+    <td>Percentage Value</td>
+  </tr>
+  <tr>
+    <td>In-class participation/professionalism/in-class exercises</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>Assignment 1</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>Assignment 2</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>Assignment 3</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>Assignment 4</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>TOTAL</td>
+    <td>100%</td>
+  </tr>
+</table>
+
+
 ## Lesson-by-lesson
 
 ### **Class concept**
@@ -294,11 +328,11 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 ### **Lesson**** 2****  (Tuesday, Sept. 6)**
 
-**Topics: **Finding stories in your data beat: issues with data research, data ethics and harmonizing/editorializing data for stories (slides)
+**Topics: **Finding stories in your data beat: an imperfect step-by-step guide ([slides](https://docs.google.com/presentation/d/1m9emPcsFVS19VSC8MzpJ72ngzYWRENMtlFIG9JaUitQ/edit?usp=sharing))
 
-**Craft:** Data headaches — my favorite (advanced) things in Excel and Google Refine (slides)
+**Craft:** Data headaches — my favorite (advanced) things in Excel ([slides](https://docs.google.com/presentation/d/11LgFogV9vMfg239weMmkGbZZyJYluYTogUusTYRv7iw/edit?usp=sharing))
 
-**Tech: **Take that, dirty data! More advanced Google Refine data cleaning, in-class exercise (slides) 
+**Tech: **Find me a story! In-class data exercise ([slides](https://docs.google.com/presentation/d/11LgFogV9vMfg239weMmkGbZZyJYluYTogUusTYRv7iw/edit?usp=sharing)) | Illustrator  — make a graphic using Illustrator templates ([slides](https://docs.google.com/presentation/d/1_jNF4_Jfav2ZB3wNIQyDJGqAT3shYUyi94IENf2id-w/edit?usp=sharing) | [template](https://github.com/lamthuyvo/advanced-coding-cuny2016/blob/master/01templates/chart-template.ait))
 
 **Homework (Assignment 1): **
 
@@ -310,7 +344,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Craft: **Data formatting — data structures for different data visualizations; from csv to json to  columns (slides)
 
-**Tech:** Intro to your code template (template) | Responsive web design and the art of media queries (slides)
+**Tech:** Intro to your code template (template) 
 
 **Homework (Assignment 1): **
 
@@ -320,7 +354,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Topics: **Serving graphics to a multi-screen generation — discussions about content, style and ethical issues around how you tell a story (slides)
 
-**Craft:**  Illustrator  — make a graphic using Illustrator templates (slides | template)
+**Craft****:** Responsive web design and the art of media queries (slides)
 
 **Tech:**** **Ai2HTML (part 1) — installation, setup and making multiple graphics (slides)
 
@@ -523,4 +557,3 @@ Data, persuasion and truth: when it comes to disputed subjects people tend to st
 **Statistics tutorials:**
 Hyperstat [http://davidmlane.com/hyperstat/](http://davidmlane.com/hyperstat/). 
 Stat Trek [http://stattrek.com/tutorials/statistics-tutorial.aspx](http://stattrek.com/tutorials/statistics-tutorial.aspx) 
-
