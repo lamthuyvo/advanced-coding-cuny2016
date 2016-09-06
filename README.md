@@ -66,7 +66,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>10/4/2016</td>
     <td>What's my data story? All the iterations of a data story (part 2); pseudocoding; simple app</td>
     <td>Draft for news app </td>
-    <td>Sarah Squire, Dowjones Media Group</td>
+    <td>Sarah Squire, Interactive Editor, Dowjones Media Group</td>
     <td>Kathryn</td>
   </tr>
   <tr>
@@ -332,7 +332,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Craft:** Data headaches — my favorite (advanced) things in Excel ([slides](https://docs.google.com/presentation/d/11LgFogV9vMfg239weMmkGbZZyJYluYTogUusTYRv7iw/edit?usp=sharing))
 
-**Tech: **Find me a story! In-class data exercise ([slides](https://docs.google.com/presentation/d/11LgFogV9vMfg239weMmkGbZZyJYluYTogUusTYRv7iw/edit?usp=sharing)) | Illustrator  — make a graphic using Illustrator templates ([slides](https://docs.google.com/presentation/d/1_jNF4_Jfav2ZB3wNIQyDJGqAT3shYUyi94IENf2id-w/edit?usp=sharing) | [template](https://github.com/lamthuyvo/advanced-coding-cuny2016/blob/master/01templates/chart-template.ait))
+**Tech: **Illustrator  — make a graphic using Illustrator templates ([slides](https://docs.google.com/presentation/d/1_jNF4_Jfav2ZB3wNIQyDJGqAT3shYUyi94IENf2id-w/edit?usp=sharing) | [template](https://github.com/lamthuyvo/advanced-coding-cuny2016/blob/master/01templates/chart-template.ait))
 
 **Homework (Assignment 1): **
 
