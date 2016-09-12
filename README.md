@@ -1,5 +1,6 @@
-## Advanced coding 
+Advanced coding 
 
+[[TOC]]
 
 ## **Course Description** 
 
@@ -37,7 +38,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>3</td>
     <td>Tuesday</td>
     <td>9/13/2016</td>
-    <td>Static vs. interactive graphic; data formatting,  Github review; media queries</td>
+    <td>Static vs. interactive graphic; data formatting, Github review; media queries</td>
     <td>Draft news assignment</td>
     <td>Andrew Van Dam, graphics reporter, WSJ</td>
     <td>Johanna</td>
@@ -340,11 +341,13 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 ### **Lesson**** 3 (Tuesday, Sept. 13)**
 
-**Topics:** Static is the new interactive — trends in data visualizations** **(slides) 
+**Topics:** Static is the new interactive — trends in data visualizations** **([slides](https://docs.google.com/presentation/d/16ytyyvQxF4agE1DZQxfvp_cLfy4LnOmWJsiJV3_8pAs/edit?usp=sharing)) 
 
-**Craft: **Data formatting — data structures for different data visualizations; from csv to json to  columns (slides)
+**Craft: **jQuery** **— a quick review | JavaScript vs jQuery ([slides](https://docs.google.com/presentation/d/1tY65taxvyOyyS3byv6dFEiHOqLQ6_FDomYkASmOtvVY/edit?usp=sharing))
 
-**Tech:** Intro to your code template (template) 
+Everything is data — data structures for different data visualizations; from csv to json to  columns ([slides](https://docs.google.com/presentation/d/1k1gVmVAj9Rh3yOSzZpkw8dYimE-M4gNCqhagHpmBNnU/edit?usp=sharing))
+
+**Tech:** Intro to your code template ([template](https://github.com/lamthuyvo/advanced-coding-cuny2016/tree/master/01templates/01basic-interactive-template)) 
 
 **Homework (Assignment 1): **
 
