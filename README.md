@@ -1,6 +1,4 @@
-Advanced coding 
-
-[[TOC]]
+## **Advanced coding**
 
 ## **Course Description** 
 
@@ -38,7 +36,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>3</td>
     <td>Tuesday</td>
     <td>9/13/2016</td>
-    <td>Static vs. interactive graphic; data formatting, Github review; media queries</td>
+    <td>Static vs. interactive graphic; data formatting, Github review; </td>
     <td>Draft news assignment</td>
     <td>Andrew Van Dam, graphics reporter, WSJ</td>
     <td>Johanna</td>
@@ -47,7 +45,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>4</td>
     <td>Tuesday</td>
     <td>9/20/2016</td>
-    <td>Multi-screen graphics, illustrator (review and advanced tricks); AI2html introduction/installation</td>
+    <td>Multi-screen graphics, illustrator (review and advanced tricks); media queries; AI2html introduction/installation</td>
     <td>Final news assignment </td>
     <td>Azmat Khan, formerly at BuzzFeed</td>
     <td>Rhea</td>
@@ -56,7 +54,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>5</td>
     <td>Tuesday</td>
     <td>9/27/2016</td>
-    <td>What's my data story? Finding insights in data via analysis and reporting (part 1); ai2html (part 2)</td>
+    <td>What's my data story? Finding insights in microdata (part 1); ai2html (part 2)</td>
     <td>Pitch for news app </td>
     <td>Coulter Jones, data reporter, WSJ </td>
     <td>Noah</td>
@@ -83,7 +81,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>8</td>
     <td>Friday </td>
     <td>10/14/2016</td>
-    <td>Go, team go!; github for team players</td>
+    <td>Go, team go!; github for team players; the scroll story - waypoints.js</td>
     <td></td>
     <td>Nadja Popovich, interactive developer, The Guardian</td>
     <td>Nicole</td>
@@ -355,11 +353,11 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 4 (Tuesday, Sept. 20)**
 
-**Topics: **Serving graphics to a multi-screen generation — discussions about content, style and ethical issues around how you tell a story (slides)
+**Topics: **Serving graphics to a multi-screen generation ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
-**Craft****:** Responsive web design and the art of media queries (slides)
+**Craft****:** Responsive web design and the art of media queries ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
-**Tech:**** **Ai2HTML (part 1) — installation, setup and making multiple graphics (slides)
+**Tech:**** **Ai2HTML (part 1) — installation, setup and making multiple graphics ([slides](https://docs.google.com/presentation/d/1-CEmah6Rp540pMDI2UbAGXKWZtrhD4JHzqDYnLQlfGM/edit?usp=sharing))
 
 **Homework:**
 
@@ -375,7 +373,7 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson**** 5 (Tuesday, Sept. 27)**
 
-**Topics: **What’s my data story? Finding insights in data (slides) ** **
+**Topics: **What’s my data story? Finding insights in microdata (slides) ** **
 
 **Craft:  **Object oriented CSS (slides)
 
@@ -408,7 +406,7 @@ Everything is data — data structures for different data visualizations; from c
 
 **Topics: **Go Team, Go! — templates, tools and other ways news outlets organize their teams (slides) 
 
-**Craft:  **Github (for team players) — version control and collaboration (slides)
+Craft:  Github (for team players) — version control and collaboration (slides) | the scroll story - waypoints.js
 
 **Tech:** Apply your github skills — in groups of 4, put together a simple site, using adding, committing, pulling and pushing code to a repo
 
