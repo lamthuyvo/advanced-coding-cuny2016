@@ -70,7 +70,63 @@ body{
 	background-color: #fff;
 }
 
+
 h1, h2, h3, h4, h5, h6{
 	font-family:'Source Sans Pro', Helvetica, Arial, sans-serif;
 	
+}
+
+/* ai2HTML */
+
+
+
+/* media queries*/
+[id$="-desktop"],
+[id*="-desktop "] {
+	display: block;
+}
+
+[id$="-tablet"],
+[id*="-tablet "] {
+	display: none;
+}
+
+[id$="-mobile"],
+[id*="-mobile "] {
+	display: none;
+}
+
+
+@media  (max-width: 768px){
+	[id$="-desktop"],
+	[id*="-desktop "] {
+		display: none;
+	}
+
+	[id$="-tablet"],
+	[id*="-tablet "] {
+		display: block;
+	}
+
+	[id$="-mobile"],
+	[id*="-mobile "] {
+		display: none;
+	}
+}
+
+@media  (max-width: 480px){
+	[id$="-desktop"],
+	[id*="-desktop "] {
+		display: none;
+	}
+
+	[id$="-tablet"],
+	[id*="-tablet "] {
+		display: none;
+	}
+
+	[id$="-mobile"],
+	[id*="-mobile "] {
+		display: block;
+	}
 }
