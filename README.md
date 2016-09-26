@@ -55,7 +55,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>Tuesday</td>
     <td>9/27/2016</td>
     <td>What's my data story? Finding insights in microdata (part 1); ai2html (part 2)</td>
-    <td>Pitch for news app </td>
+    <td></td>
     <td>Coulter Jones, data reporter, WSJ </td>
     <td>Noah</td>
   </tr>
@@ -64,7 +64,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>Tuesday</td>
     <td>10/4/2016</td>
     <td>What's my data story? All the iterations of a data story (part 2); pseudocoding; simple app</td>
-    <td>Draft for news app </td>
+    <td>Pitch for Ai2HTML</td>
     <td>Sarah Squire, Interactive Editor, Dowjones Media Group</td>
     <td>Kathryn</td>
   </tr>
@@ -73,7 +73,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>Tuesday</td>
     <td>10/11/2016</td>
     <td>The considerate coder - clean code; check yourself, before your wreck yourself; browser and device testing</td>
-    <td>Final news app </td>
+    <td>Draft for Ai2HTML</td>
     <td>Karen Zraick, foreign desk, New York Times (tentative) </td>
     <td>Brandon</td>
   </tr>
@@ -82,7 +82,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>Friday </td>
     <td>10/14/2016</td>
     <td>Go, team go!; github for team players; the scroll story - waypoints.js</td>
-    <td></td>
+    <td>Final news Ai2HTML</td>
     <td>Nadja Popovich, interactive developer, The Guardian</td>
     <td>Nicole</td>
   </tr>
@@ -359,6 +359,14 @@ Everything is data — data structures for different data visualizations; from c
 
 **Tech:**** **Ai2HTML (part 1) — installation, setup and making multiple graphics ([slides](https://docs.google.com/presentation/d/1-CEmah6Rp540pMDI2UbAGXKWZtrhD4JHzqDYnLQlfGM/edit?usp=sharing))
 
+### **Lesson**** 5 (Tuesday, Sept. 27)**
+
+**Topics: **What’s my data story? Finding insights in microdata ([slides](https://docs.google.com/presentation/d/1IXyBiliAI5oYRhKJs45xgBoi5cGf_f-hgXAVAhlmrk4/edit?usp=sharing)) ** **
+
+**Craft:  **Object oriented CSS ([slides](https://docs.google.com/presentation/d/1ejvReoH93tB4MQ__pbAfsxXYgYOIz4C8FwIKayo4_wg/edit?usp=sharing))
+
+**Tech:** SASS ([slides](https://docs.google.com/presentation/d/1ejvReoH93tB4MQ__pbAfsxXYgYOIz4C8FwIKayo4_wg/edit?usp=sharing))
+
 **Homework:**
 
 * **Assignment 2: **Pitch a data-driven news feature that is produced by using AI2HTML. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. It has to include:
@@ -371,18 +379,6 @@ Everything is data — data structures for different data visualizations; from c
 
     * links to data sources, other research 
 
-### **Lesson**** 5 (Tuesday, Sept. 27)**
-
-**Topics: **What’s my data story? Finding insights in microdata (slides) ** **
-
-**Craft:  **Object oriented CSS (slides)
-
-**Tech:** Ai2HTML (slides)
-
-**Homework (Assignment 2):**
-
-* Build a first draft of a data-driven news feature that is produced by using AI2HTML. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. 
-
 ### **Lesson 6 (October 4, 2016)**
 
 **Topics: **What’s my data story (part 2)? All the iterations of the data story (slides)
@@ -393,7 +389,7 @@ Everything is data — data structures for different data visualizations; from c
 
 **Homework (Assignment 2):**
 
-* The final version of your second assignment must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon the day of next class (October 11, 2016).  
+* Build a first draft of a data-driven news feature that is produced by using AI2HTML. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. 
 
 ### **Lesson**** 7 (October 11, 2016)**
 
@@ -401,6 +397,10 @@ Everything is data — data structures for different data visualizations; from c
 **Craft:  **Check yourself before your wreck yourself — what to look for before you deploy (slides)
 
 **Tech**: Test your first drafts on multiple browsers using what you learned in class
+
+**Homework (Assignment 2):**
+
+* The final version of your second assignment must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon the day of next class (October 11, 2016).  
 
 ### **Lesson 8 (October 14, 2016)**
 
