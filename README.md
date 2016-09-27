@@ -137,7 +137,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>11/22/2016</td>
     <td>D3.js (part 2)</td>
     <td>Pitch team project </td>
-    <td></td>
+    <td>Joanna Kao, Interactive reporter, The Financial Times</td>
     <td>Brandon</td>
   </tr>
   <tr>
@@ -201,7 +201,7 @@ All assignments will require a total of 250- to 500-words to accompany the inter
 
 1. Produce a news piece that involves charting of a narrative or trend using Illustrator. Think of it as a post for FiveThirtyEight, Vox.com, Quartz, The Upshot, the Wonkblog, the Fix or other short- to medium-form outlet. **Lesson 4, September 19 by Noon**
 
-2. Build a data-driven news feature that is produced by using AI2HTML. **Lesson 7, October 11 by Noon**
+2. Build a data-driven news feature that is produced by using AI2HTML. **Lesson 7, October 14 by Noon**
 
 3. Create a news app that allows people to understand a data set using a dropdown menu, searchable bar or other interactive component. The dropdown menu should change something in your app — text, a graphic, a table — to give new, personal insights t the data set. **Lesson 11, Nov. 16 by Noon.**
 
@@ -393,8 +393,8 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson**** 7 (October 11, 2016)**
 
-**Topics: **The considerate coder — the importance of writing verbose, reuseable and clean code for others (slides)
-**Craft:  **Check yourself before your wreck yourself — what to look for before you deploy (slides)
+**Topics: **The considerate coder — the importance of writing verbose, re-useable and clean code for others (slides)
+**Craft:  **Check yourself before you wreck yourself — what to look for before you deploy (slides)
 
 **Tech**: Test your first drafts on multiple browsers using what you learned in class
 
@@ -406,7 +406,7 @@ Everything is data — data structures for different data visualizations; from c
 
 **Topics: **Go Team, Go! — templates, tools and other ways news outlets organize their teams (slides) 
 
-Craft:  Github (for team players) — version control and collaboration (slides) | the scroll story - waypoints.js
+**Craft:** Github (for team players) — version control and collaboration (slides) | the scroll story - waypoints.js
 
 **Tech:** Apply your github skills — in groups of 4, put together a simple site, using adding, committing, pulling and pushing code to a repo
 
