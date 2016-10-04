@@ -83,7 +83,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>10/14/2016</td>
     <td>Go, team go!; github for team players; the scroll story - waypoints.js</td>
     <td>Final news Ai2HTML</td>
-    <td>Nadja Popovich, interactive developer, The Guardian</td>
+    <td></td>
     <td>Nicole</td>
   </tr>
   <tr>
@@ -128,7 +128,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>11/16/2016</td>
     <td>interactive methods; D3.js (part 1)</td>
     <td>Final data visualization (interactive) </td>
-    <td></td>
+    <td>Nadja Popovich, interactive developer, The Guardian</td>
     <td>Kathryn</td>
   </tr>
   <tr>
@@ -381,11 +381,13 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 6 (October 4, 2016)**
 
-**Topics: **What’s my data story (part 2)? All the iterations of the data story (slides)
+**Topics: **What’s my data story? All the kinds of formats ([slides](https://docs.google.com/presentation/d/1Y4qxkv0H6MXjfDCtQ0xGJILThnnoU2CW1Ne0eshh3bM/edit?usp=sharing))
 
 **Craft: **Pseudocoding — coding with pen and paper ([slides](https://docs.google.com/presentation/d/1nGJ5rMxlbznTkXQBjyYfUNgPZPDXX8z85HR8NrXsrNk/edit?usp=sharing))
 
-**Tech: **Make me a simple news app | serving up data (slides)
+**Tech: **Pseudocode a project with jquery function names and comments
+
+** **| SASS ([slides](https://docs.google.com/presentation/d/1ejvReoH93tB4MQ__pbAfsxXYgYOIz4C8FwIKayo4_wg/edit?usp=sharing))
 
 **Homework (Assignment 2):**
 
@@ -393,10 +395,10 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson**** 7 (October 11, 2016)**
 
-**Topics: **The considerate coder — the importance of writing verbose, re-useable and clean code for others (slides)
+**Topics: **The considerate coder — the importance of writing verbose, re-useable and clean code for others (slides) 
 **Craft:  **Check yourself before you wreck yourself — what to look for before you deploy (slides)
 
-**Tech**: Test your first drafts on multiple browsers using what you learned in class
+**Tech**: News app basics: serving up data using json and jquery (slides)
 
 **Homework (Assignment 2):**
 
@@ -404,11 +406,11 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 8 (October 14, 2016)**
 
-**Topics: **Go Team, Go! — templates, tools and other ways news outlets organize their teams (slides) 
+**Topics: **Go Team, Go! — templates, tools and other ways news outlets organize their teams (slides) | Use Lam’s Scraper! (slides)
 
-**Craft:** Github (for team players) — version control and collaboration (slides) | the scroll story - waypoints.js
+**Craft:** Github (for team players) — version control and collaboration (slides) 
 
-**Tech:** Apply your github skills — in groups of 4, put together a simple site, using adding, committing, pulling and pushing code to a repo
+**Tech:** Apply your github skills — in groups of 4, put together a simple site, using adding, committing, pulling and pushing code to a repo (slides) |  the scroll story - waypoints.js (slides)
 
 **Homework:**
 
@@ -558,3 +560,56 @@ Data, persuasion and truth: when it comes to disputed subjects people tend to st
 **Statistics tutorials:**
 Hyperstat [http://davidmlane.com/hyperstat/](http://davidmlane.com/hyperstat/). 
 Stat Trek [http://stattrek.com/tutorials/statistics-tutorial.aspx](http://stattrek.com/tutorials/statistics-tutorial.aspx) 
+
+## Coaches
+
+You'll find all [coaching hours here](http://www.journalism.cuny.edu/current-students/coaching-hours-fall-2015/) here.
+
+The most relevant ones are below:
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Coaching areas</td>
+    <td>Hours</td>
+    <td>Office Location</td>
+    <td>Email</td>
+  </tr>
+  <tr>
+    <td>Kirsti Itameri</td>
+    <td>Interactive Journalism: Design, WordPress, Illustrator, Photoshop, Social Media</td>
+    <td>Tuesdays 6:30-8:30 pm or by appointment</td>
+    <td>Newsroom</td>
+    <td>kirsti.itameri@journalism.cuny.edu</td>
+  </tr>
+  <tr>
+    <td>TC McCarthy</td>
+    <td>Interactive Journalism: Coding</td>
+    <td>Thursday 6-8 pm</td>
+    <td>Newsroom</td>
+    <td>tc.mccarthy@journalism.cuny.edu</td>
+  </tr>
+  <tr>
+    <td>Malik Singleton</td>
+    <td>Interactive Journalism: Data Storytelling, WordPress, HTML, CSS</td>
+    <td>Mondays and Thursdays, 5:30-7:30 pm</td>
+    <td>Newsroom</td>
+    <td>malik.singleton@journalism.cuny.edu</td>
+  </tr>
+  <tr>
+    <td>Nicholas Wells</td>
+    <td>Interactive Journalism: Data Storytelling, HTML, CSS, R</td>
+    <td>Tuesdays 6:00 - 8:30 pm</td>
+    <td>Newsroom</td>
+    <td>Nicholasbwells@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Jue Yang</td>
+    <td>Interactive Journalism: Data Storytelling, Data Analysis, GitHub, UI/UX, Information and Visual Design, Interactive Storytelling, JavaScript, jQuery, Python, Web Scraping, HTML/CSS</td>
+    <td>Virtually and by appointment</td>
+    <td>Faculty Cubicle</td>
+    <td>github.com/jueyang/call-me-maybe</td>
+  </tr>
+</table>
+
+
