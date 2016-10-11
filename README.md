@@ -72,7 +72,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>7</td>
     <td>Tuesday</td>
     <td>10/11/2016</td>
-    <td>The considerate coder - clean code; check yourself, before your wreck yourself; browser and device testing</td>
+    <td>The considerate coder - clean code; check yourself, before your wreck yourself; browser and device testing, underscore.js </td>
     <td>Draft for Ai2HTML</td>
     <td>Karen Zraick, foreign desk, New York Times (tentative) </td>
     <td>Brandon</td>
@@ -108,7 +108,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>9</td>
     <td>Tuesday</td>
     <td>11/1/2016</td>
-    <td>Principles of organizing information, UX design, underscore.js</td>
+    <td>Principles of organizing information, UX design, animate.css</td>
     <td>Data visualization (interactive) pitch </td>
     <td>Alvin Chang, graphics reporter, Vox.com</td>
     <td>Sandeep</td>
@@ -395,22 +395,17 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson**** 7 (October 11, 2016)**
 
-**Topics: **The considerate coder — the importance of writing verbose, re-useable and clean code for others (slides) 
-**Craft:  **Check yourself before you wreck yourself — what to look for before you deploy (slides)
-
-**Tech**: News app basics: serving up data using json and jquery (slides)
-
-**Homework (Assignment 2):**
-
-* The final version of your second assignment must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon the day of next class (October 11, 2016).  
+**Craft/Tech**: Make me a news app ([slides](https://docs.google.com/presentation/d/1fMhw5yrFEAytCXCTx_G9qcrfI0SJLW-HNPCr2Oae-vc/edit?usp=sharing))** | **Check yourself before you wreck yourself — what to look for before you deploy ([slides](https://docs.google.com/presentation/d/1M4elMLDIs_FKRt7Yp2RBJmlwKm2QoT9HheO9DhdOoVk/edit?usp=sharing))
 
 ### **Lesson 8 (October 14, 2016)**
 
-**Topics: **Go Team, Go! — templates, tools and other ways news outlets organize their teams (slides) | Use Lam’s Scraper! (slides)
+**Topics: **Github (for team players) — version control and collaboration, a game (slides) 
 
-**Craft:** Github (for team players) — version control and collaboration (slides) 
+**Craft/Tech:** Use Lam’s Scraper! (slides) |  Chosen.js or semantic-ui — parsing and customizing data for display (slides) 
 
-**Tech:** Apply your github skills — in groups of 4, put together a simple site, using adding, committing, pulling and pushing code to a repo (slides) |  the scroll story - waypoints.js (slides)
+**Homework (Assignment 2):**
+
+* The final version of your second assignment must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon the day of next class (October 18, 2016).  
 
 **Homework:**
 
@@ -426,11 +421,11 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 9 (November 1, 2016)**
 
-**Topics: **Principles of organizing information (slides) 
+**Topics: **The art of debugging (slides) 
 
 **Craft**: Lean** **UX design (slides) 
 
-**Tech:**** **Underscore.js — accessing, manipulating and sorting data** **(slides)
+**Tech:** Animate.css (slides) 
 
 **Homework (Assignment 3):**
 
@@ -439,9 +434,9 @@ Everything is data — data structures for different data visualizations; from c
 ### **Lesson 10 (November 8, 2016)**
 
 **Topics: **All you care about is yourself — personalization through interactivity** **([slides](https://docs.google.com/presentation/d/1QCxMh72UdN5bzCbeiG5u-NYF9S00jPKk2ZJ7qVYA9bg/edit#slide=id.p))
-**Craft:** How to make you care (brain storm session | slides)
+**Craft:** d3.js  — your best friend, your worst enemy, an introduction to how d3 works (slides)
 
-**Tech:  **Chosen.js or semantic-ui — parsing and customizing data for display (slides)  | waypoints.js — trigger functions with scroll (slides)
+**Tech: **The scroll story - waypoints.js (slides)
 
 **Homework (Assignment 3):**
 
@@ -449,8 +444,8 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson**** 11 (November 16, 2016)**
 
-**Topics: **Interactive wonderlands — how users learn through interaction (games) and how animation can help you do better linear data storytelling (data explorations); (slides)
-**Craft:** d3.js  — your best friend, your worst enemy, an introduction (slides)
+**Topics: **Interactive wonderlands — how users learn through interaction (games) and how animation can help you do better linear data storytelling (data explorations) (slides)
+**Craft:** 
 
 **Tech: **loading data through d3 (slides)
 
@@ -468,7 +463,7 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 12 (November 22, 2016)**
 
-**Craft/Tech: **d3 — your best friend, your worst enemy (introduction) (slides)
+**Craft/Tech: **d3 — drawing shapes (slides)
 
 **In-class lab:** work on your projects
 
@@ -478,7 +473,7 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 13 (November 29, 2016)**
 
-**Craft/Tech: **d3 — scales, shapes and animations(slides)
+**Craft/Tech: **d3 — adding pazzazz animations(slides)
 
 **In-class lab:** work on your projects
 

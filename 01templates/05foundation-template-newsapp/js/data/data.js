@@ -1,0 +1,1 @@
+// create a data object; i.e. var myData = [];
