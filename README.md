@@ -81,7 +81,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>8</td>
     <td>Friday </td>
     <td>10/14/2016</td>
-    <td>Go, team go!; github for team players; the scroll story - waypoints.js</td>
+    <td>Go, team go!; github for team players; semantic-ui</td>
     <td>Final news Ai2HTML</td>
     <td></td>
     <td>Nicole</td>
@@ -399,13 +399,15 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 8 (October 14, 2016)**
 
-**Topics: **Github (for team players) — version control and collaboration, a game (slides) 
+**Topics: **Github (for team players) — version control and collaboration, a game ([slides](https://docs.google.com/presentation/d/19vp_b9dkCabqWws8R1T_QJ7f5OJ5LUghFfPIyNbO_4w/edit?usp=sharing)) 
 
-**Craft/Tech:** Use Lam’s Scraper! (slides) |  Chosen.js or semantic-ui — parsing and customizing data for display (slides) 
+**Craft/Tech:** Semantic-ui — your searchable dropdown ([slides](https://docs.google.com/presentation/d/1ojsLu8kxKUouwfBPB3OyCPVodPmc3D-EQUrheD6z7xo/edit?usp=sharing)) | Use Lam’s Scraper! ([slides](https://docs.google.com/presentation/d/1APHjFb-alIVLOSJ5N5fhbuHyOod1U6Rs1VxQdDDNEUo/edit?usp=sharing)) 
 
 **Homework (Assignment 2):**
 
 * The final version of your second assignment must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon the day of next class (October 18, 2016).  
+
+### **Weeks off**
 
 **Homework:**
 
@@ -425,7 +427,7 @@ Everything is data — data structures for different data visualizations; from c
 
 **Craft**: Lean** **UX design (slides) 
 
-**Tech:** Animate.css (slides) 
+**Tech: **Why isn’t this working?! — Let’s debug a project  (slides) 
 
 **Homework (Assignment 3):**
 
@@ -436,7 +438,7 @@ Everything is data — data structures for different data visualizations; from c
 **Topics: **All you care about is yourself — personalization through interactivity** **([slides](https://docs.google.com/presentation/d/1QCxMh72UdN5bzCbeiG5u-NYF9S00jPKk2ZJ7qVYA9bg/edit#slide=id.p))
 **Craft:** d3.js  — your best friend, your worst enemy, an introduction to how d3 works (slides)
 
-**Tech: **The scroll story - waypoints.js (slides)
+**Tech: **Load data through d3.js (slides)
 
 **Homework (Assignment 3):**
 
@@ -445,9 +447,7 @@ Everything is data — data structures for different data visualizations; from c
 ### **Lesson**** 11 (November 16, 2016)**
 
 **Topics: **Interactive wonderlands — how users learn through interaction (games) and how animation can help you do better linear data storytelling (data explorations) (slides)
-**Craft:** 
-
-**Tech: **loading data through d3 (slides)
+**Craft/****Tech:** Loading data and making shapes with d3.js (slides)
 
 **Homework:**
 
