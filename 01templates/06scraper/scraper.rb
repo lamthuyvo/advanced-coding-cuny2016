@@ -18,7 +18,7 @@ rows = data.css('tr')
 csv = CSV.open("dates.csv", "wb")
 
 
-# method for messages
+# method for rows and items
 
 rows.each do |row|
 	# creates an array
