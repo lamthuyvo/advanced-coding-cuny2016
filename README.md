@@ -423,11 +423,11 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 9 (November 1, 2016)**
 
-**Topics: **The art of debugging (slides) 
+**Topics: **The art of debugging ([slides](https://docs.google.com/presentation/d/130cbmdap6nbA1mvIKhYUevGuSwgK6HqYwgkicdU2q8I/edit?usp=sharing)) 
 
-**Craft**: Lean** **UX design (slides) 
+**Craft**: UX design ([slides](https://docs.google.com/presentation/d/1kov0ZTG6wy9xP1s6e5IvE5Vga-UfhX_PoS-9OW5HB8M/edit?usp=sharing)) 
 
-**Tech: **Why isn’t this working?! — Let’s debug a project  (slides) 
+**Tech: **Why isn’t this working?! — Let’s debug a project  ([slides](https://docs.google.com/presentation/d/130cbmdap6nbA1mvIKhYUevGuSwgK6HqYwgkicdU2q8I/edit?usp=sharing)) 
 
 **Homework (Assignment 3):**
 
