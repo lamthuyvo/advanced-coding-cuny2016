@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 	// set variables for dates
 	var electionDate = new Date("11/8/2016").setHours(0,0,0,0)
-	todaysdate = new Date().setHours(0,0,0,0);
+	todaydate = new Date().setHours(0,0,0,0);
 
 
 	// if today's date is the election date

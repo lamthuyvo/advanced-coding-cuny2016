@@ -110,7 +110,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>11/1/2016</td>
     <td>Principles of organizing information, UX design, animate.css</td>
     <td>Data visualization (interactive) pitch </td>
-    <td>Alvin Chang, graphics reporter, Vox.com</td>
+    <td></td>
     <td>Sandeep</td>
   </tr>
   <tr>
@@ -124,11 +124,11 @@ This three-credit course will introduce students to effective, data-driven inter
   </tr>
   <tr>
     <td>11</td>
-    <td>Wednesday</td>
-    <td>11/16/2016</td>
+    <td>Friday</td>
+    <td>11/18/2016</td>
     <td>interactive methods; D3.js (part 1)</td>
     <td>Final data visualization (interactive) </td>
-    <td>Nadja Popovich, interactive developer, The Guardian</td>
+    <td>Alvin Chang, graphics reporter, Vox.com</td>
     <td>Kathryn</td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>11/29/2016</td>
     <td>D3.js (part 3)</td>
     <td>Draft team project </td>
-    <td></td>
+    <td>Nadja Popovich, interactive developer, The Guardian</td>
     <td>Nicole</td>
   </tr>
   <tr>
@@ -436,15 +436,15 @@ Everything is data — data structures for different data visualizations; from c
 ### **Lesson 10 (November 8, 2016)**
 
 **Topics: **All you care about is yourself — personalization through interactivity** **([slides](https://docs.google.com/presentation/d/1QCxMh72UdN5bzCbeiG5u-NYF9S00jPKk2ZJ7qVYA9bg/edit#slide=id.p))
-**Craft:** d3.js  — your best friend, your worst enemy, an introduction to how d3 works (slides)
+**Craft:** d3.js  — your best friend, your worst enemy, an introduction to how d3 works ([slides](https://docs.google.com/presentation/d/1iPJzlV-eZRQHP67ly599JBJm_qUGnLsXUv4615oUsb4/edit?usp=sharing))
 
-**Tech: **Load data through d3.js (slides)
+**Tech: **Load data through d3.js ([slides](https://docs.google.com/presentation/d/1iPJzlV-eZRQHP67ly599JBJm_qUGnLsXUv4615oUsb4/edit?usp=sharing))
 
 **Homework (Assignment 3):**
 
 * The final version of your second assignment must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon the day of next class (November 16, 2016).  
 
-### **Lesson**** 11 (November 16, 2016)**
+### **Lesson**** 11 (November 18, 2016)**
 
 **Topics: **Interactive wonderlands — how users learn through interaction (games) and how animation can help you do better linear data storytelling (data explorations) (slides)
 **Craft/****Tech:** Loading data and making shapes with d3.js (slides)
