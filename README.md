@@ -447,7 +447,7 @@ Everything is data — data structures for different data visualizations; from c
 ### **Lesson**** 11 (November 18, 2016)**
 
 **Topics: **Interactive wonderlands — how users learn through interaction (games) and how animation can help you do better linear data storytelling (data explorations) ([slides](https://docs.google.com/presentation/d/1ZGs4uGnkjeP8yi5kFyp5d2UVOC5Ybxq6F7RqBOXh25Q/edit?usp=sharing))
-**Craft/****Tech:** Drawing shapes and styling them with d3.js  (slides)
+**Craft/****Tech:** Drawing shapes and styling them with d3.js  ([slides](https://docs.google.com/presentation/d/1ZeGsLm14-idnlAQ-_6PMjG92urPe0Cst5fdDsWC8Vvw/edit?usp=sharing))
 
 **Homework:**
 
