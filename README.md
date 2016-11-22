@@ -463,7 +463,7 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 12 (November 22, 2016)**
 
-**Craft/Tech: **d3 — Scales and axes (slides)
+**Craft/Tech: **d3 — Scales and axes ([slides](https://docs.google.com/presentation/d/1lGiJQqDE3JGp0eR4eJAJ9HyzivncoeWgA0RAmvLl07U/edit?usp=sharing))
 
 **In-class lab:** work on your projects
 
@@ -473,7 +473,9 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 13 (November 29, 2016)**
 
-**Craft/Tech: **d3 — adding pazzazz animations(slides)
+**Craft/Tech: **d3 — adding pazzazz 
+
+animations(slides) | securing your information (slides)
 
 **In-class lab:** work on your projects
 

@@ -4,15 +4,17 @@ $(document).ready(function(){
 	
 	// create SVG element
 
+	// define your scales
 
-	
-	// loading data
-	
+	// define your axes
 
-		// define the newly transformed data set (from csv into a data object)
-		
+	// create your axes
 
-		// make a rectangle for each data point, giving each rectangle an x-coordinate, a y-coordinate, a width and a height (optional, give it a fill)
+
+	// make a circle for each data point
+		// give each circle a cx-coordinate
+		// a y-coordinate
+		// a radius (extra: if you're done early, make the radius represent another value you're plotting)
 	   	
 
 	
