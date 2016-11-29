@@ -1,0 +1,160 @@
+/*Chart colors*/
+
+.yellow1{color:#403B00;}
+.yellow2{color:#807600;}
+.yellow3{color:#FFEC00;}
+.yellow4{color:#FFF799;}
+.yellow5{color:#FFFBCC;}
+
+.orange1{color:#331F02;}
+.orange2{color:#673F05;}
+.orange3{color:#CE7D09;}
+.orange4{color:#D8973A;}
+.orange5{color:#EBCB9D;}
+
+.red1{color: #401819;}
+.red2{color: #803133;}
+.red3{color: #FF6165;}
+.red4{color: #FFA0A3;}
+.red5{color: #FFDFE0;}
+
+.green1{color: #0A2C27;}
+.green2{color: #15574D;}
+.green3{color: #01f7b6;}
+.green4{color: #7FCEC2;}
+.green5{color: #D4EFEB;}
+
+.blue1{color: #051427;}
+.blue2{color: #09284E;}
+.blue3{color: #12509B;}
+.blue4{color: #7196C3;}
+.blue5{color: #D0DCEB;}
+
+
+
+.yellow1-bg{background-color:#403B00;}
+.yellow2-bg{background-color:#807600;}
+.yellow3-bg{background-color:#FFEC00;}
+.yellow4-bg{background-color:#FFF799;}
+.yellow5-bg{background-color:#FFFBCC;}
+
+.orange1-bg{background-color:#331F02;}
+.orange2-bg{background-color:#673F05;}
+.orange3-bg{background-color:#CE7D09;}
+.orange4-bg{background-color:#D8973A;}
+.orange5-bg{background-color:#EBCB9D;}
+
+.red1-bg{background-color: #401819;}
+.red2-bg{background-color: #803133;}
+.red3-bg{background-color: #FF6165;}
+.red4-bg{background-color: #FFA0A3;}
+.red5-bg{background-color: #FFDFE0;}
+
+.green1-bg{background-color: #0A2C27;}
+.green2-bg{background-color: #15574D;}
+.green3-bg{background-color: #01f7b6;}
+.green4-bg{background-color: #7FCEC2;}
+.green5-bg{background-color: #D4EFEB;}
+
+.blue1-bg{background-color: #051427;}
+.blue2-bg{background-color: #09284E;}
+.blue3-bg{background-color: #12509B;}
+.blue4-bg{background-color: #7196C3;}
+.blue5-bg{background-color: #D0DCEB;}
+
+
+
+/* your code here | this overwrites foundation */
+
+body{
+	background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family:'Source Sans Pro', Helvetica, Arial, sans-serif;
+	
+}
+
+/*app specific*/
+
+h1{
+	text-align: center;
+    padding-top: 5%;
+    font-size: 1em;
+    font-weight: 600;
+    color: #8a8a8a; 
+}
+
+#result p {
+    margin-top: 20px;
+    text-align: center;
+    font-family:'Source Sans Pro', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 4em;
+    text-transform: uppercase;
+    color: #ffb500;
+
+}
+
+#buttoncontainer {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#appbutton{
+	background-color: #a5a3a3;
+    border-radius: 5px;
+}
+
+
+/*tooltip*/
+
+/*tool tip*/
+.legend{
+    margin: 25px 0px;
+}
+
+.legend-box{
+    float:left;
+    width:200px;
+}
+
+.legend img{
+    float: left;
+    width:50px;
+}
+
+.legend .caption{
+    clear: none;
+    margin-top: 0px;
+    padding-left: 10px;
+}
+
+
+.legend-percent {
+  z-index: -99;
+  cursor-events:none;
+  width:200px;
+  position: absolute;
+  padding-top: 75px;
+  padding-left:50px;
+}
+
+.d3-tooltip {
+  opacity:0;
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 0;
+  border: 1px solid #ccc;
+  color: #888;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  padding: 0px 15px;
+  margin:0;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  width:250px;
+}
+
+.d3-tooltip strong{
+    font-weight: bold;
+    text-transform: uppercase;
+}

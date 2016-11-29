@@ -473,9 +473,7 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 13 (November 29, 2016)**
 
-**Craft/Tech: **d3 — adding pazzazz 
-
-animations(slides) | securing your information (slides)
+**Craft/Tech: **d3 — adding pazzazz ([slides](https://docs.google.com/presentation/d/1Wq8yu2b3IPPP4DvOC4YQmbvTPcSf4Z2hDHmDTPxzHfA/edit?usp=sharing)) | securing your information ([slides](https://docs.google.com/presentation/d/1ROr_41gkv-1evnDqjcHaJJGlaHVlnM9M21fuxpw0mo0/edit?usp=sharing))
 
 **In-class lab:** work on your projects
 
