@@ -107,54 +107,15 @@ h1{
 }
 
 
-/*tooltip*/
-
-/*tool tip*/
-.legend{
-    margin: 25px 0px;
+/*annotations*/
+.annotations{ 
+    fill:#525252;
+    font-size: 12px;
 }
 
-.legend-box{
-    float:left;
-    width:200px;
-}
-
-.legend img{
-    float: left;
-    width:50px;
-}
-
-.legend .caption{
-    clear: none;
-    margin-top: 0px;
-    padding-left: 10px;
+.annotations path{
+    stroke:#888;
+    fill: none;
 }
 
 
-.legend-percent {
-  z-index: -99;
-  cursor-events:none;
-  width:200px;
-  position: absolute;
-  padding-top: 75px;
-  padding-left:50px;
-}
-
-.d3-tooltip {
-  opacity:0;
-  background-color: rgba(255, 255, 255, 0.95);
-  box-shadow: 0;
-  border: 1px solid #ccc;
-  color: #888;
-  font-size: 0.75em;
-  line-height: 1.5em;
-  padding: 0px 15px;
-  margin:0;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  width:250px;
-}
-
-.d3-tooltip strong{
-    font-weight: bold;
-    text-transform: uppercase;
-}

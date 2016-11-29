@@ -30,7 +30,7 @@ $(document).ready(function(){
 	var swoopy = d3.swoopyDrag()
 		    .x(function(d){ return xScale(d.xVal) })
 		    .y(function(d){ return yScale(d.yVal) })
-		    .draggable(true)
+		    .draggable(false)
 		    .annotations(annotations)
 
 	// define your axes
@@ -96,7 +96,11 @@ $(document).ready(function(){
 	   .attr("fill", "teal")
 	   .attr("opacity", 0.7);
 
-	
+	// make labels
+	var swoopySel = svg.append('g')
+	 		.attr('class', 'annotations')
+	 		.call(swoopy)
+
 	
 
 
