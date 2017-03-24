@@ -1,6 +1,6 @@
-## **Advanced coding**
+## Advanced coding
 
-## **Course Description** 
+## Course Description
 
 This three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects. 
 
@@ -175,7 +175,7 @@ All the Technology will be taught in the context of gathering, producing, editin
 
 #### Story Presentation
 
-*For static graphics *
+For static graphics 
 
 * Adobe Illustrator 
 
@@ -183,7 +183,7 @@ All the Technology will be taught in the context of gathering, producing, editin
 
 * Responsive web design, media queries and serving multiple screens** **
 
-*For interactive graphics:*
+For interactive graphics:
 
 * chosen.js or semantic-ui — ways to bring up data
 
@@ -325,7 +325,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
     * links to data sources, other research 
 
-### **Lesson**** 2****  (Tuesday, Sept. 6)**
+### **Lesson 2  (Tuesday, Sept. 6)**
 
 **Topics: **Finding stories in your data beat: an imperfect step-by-step guide ([slides](https://docs.google.com/presentation/d/1m9emPcsFVS19VSC8MzpJ72ngzYWRENMtlFIG9JaUitQ/edit?usp=sharing))
 
@@ -337,11 +337,11 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 * Make first draft of your graphic assignment. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before our next class.
 
-### **Lesson**** 3 (Tuesday, Sept. 13)**
+### **Lesson 3 (Tuesday, Sept. 13)**
 
 **Topics:** Static is the new interactive — trends in data visualizations** **([slides](https://docs.google.com/presentation/d/16ytyyvQxF4agE1DZQxfvp_cLfy4LnOmWJsiJV3_8pAs/edit?usp=sharing)) 
 
-**Craft: **jQuery** **— a quick review | JavaScript vs jQuery ([slides](https://docs.google.com/presentation/d/1tY65taxvyOyyS3byv6dFEiHOqLQ6_FDomYkASmOtvVY/edit?usp=sharing))
+**Craft: **jQuery — a quick review | JavaScript vs jQuery ([slides](https://docs.google.com/presentation/d/1tY65taxvyOyyS3byv6dFEiHOqLQ6_FDomYkASmOtvVY/edit?usp=sharing))
 
 Everything is data — data structures for different data visualizations; from csv to json to  columns ([slides](https://docs.google.com/presentation/d/1k1gVmVAj9Rh3yOSzZpkw8dYimE-M4gNCqhagHpmBNnU/edit?usp=sharing))
 
@@ -355,11 +355,11 @@ Everything is data — data structures for different data visualizations; from c
 
 **Topics: **Serving graphics to a multi-screen generation ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
-**Craft****:** Responsive web design and the art of media queries ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
+**Craft:** Responsive web design and the art of media queries ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
-**Tech:**** **Ai2HTML (part 1) — installation, setup and making multiple graphics ([slides](https://docs.google.com/presentation/d/1-CEmah6Rp540pMDI2UbAGXKWZtrhD4JHzqDYnLQlfGM/edit?usp=sharing))
+**Tech:** Ai2HTML (part 1) — installation, setup and making multiple graphics ([slides](https://docs.google.com/presentation/d/1-CEmah6Rp540pMDI2UbAGXKWZtrhD4JHzqDYnLQlfGM/edit?usp=sharing))
 
-### **Lesson**** 5 (Tuesday, Sept. 27)**
+### **Lesson  5 (Tuesday, Sept. 27)**
 
 **Topics: **What’s my data story? Finding insights in microdata ([slides](https://docs.google.com/presentation/d/1IXyBiliAI5oYRhKJs45xgBoi5cGf_f-hgXAVAhlmrk4/edit?usp=sharing)) ** **
 
@@ -444,7 +444,7 @@ Everything is data — data structures for different data visualizations; from c
 
 * The final version of your second assignment must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon the day of next class (November 16, 2016).  
 
-### **Lesson**** 11 (November 18, 2016)**
+### **Lesson 11 (November 18, 2016)**
 
 **Topics: **Interactive wonderlands — how users learn through interaction (games) and how animation can help you do better linear data storytelling (data explorations) ([slides](https://docs.google.com/presentation/d/1ZGs4uGnkjeP8yi5kFyp5d2UVOC5Ybxq6F7RqBOXh25Q/edit?usp=sharing))
 **Craft/****Tech:** Drawing shapes and styling them with d3.js  ([slides](https://docs.google.com/presentation/d/1ZeGsLm14-idnlAQ-_6PMjG92urPe0Cst5fdDsWC8Vvw/edit?usp=sharing))
@@ -489,8 +489,8 @@ Everything is data — data structures for different data visualizations; from c
 
 ## Online Tutorials
 
-**
-****Data, data journalism, code:**
+
+**Data, data journalism, code:**
 
 -Data Journalism Handbook (great examples and approaches): [http://datajournalismhandbook.org/1.0/en/](http://datajournalismhandbook.org/1.0/en/) 
 -ProPublica Data Style Guide (it has a great checklist of do`s and dont`s when you work with data and interactive storytelling): [https://github.com/propublica/guides/blob/master/news-apps.md](https://github.com/propublica/guides/blob/master/news-apps.md) 
