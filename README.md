@@ -327,11 +327,8 @@ During this class you will be assigned a beat which you cover throughout the sem
 
     * links to data sources, other research
 
-<<<<<<< HEAD
+
 ### **Lesson 2 (Tuesday, Sept. 6)**
-=======
-### **Lesson 2  (Tuesday, Sept. 6)**
->>>>>>> ec33642de73b5a171afd75e48d1b065c1a542d2b
 
 **Topics:** Finding stories in your data beat: an imperfect step-by-step guide ([slides](https://docs.google.com/presentation/d/1m9emPcsFVS19VSC8MzpJ72ngzYWRENMtlFIG9JaUitQ/edit?usp=sharing))
 
@@ -361,7 +358,6 @@ Everything is data — data structures for different data visualizations; from c
 
 **Topics: **Serving graphics to a multi-screen generation ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
-<<<<<<< HEAD
 **Craft**: Responsive web design and the art of media queries ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
 **Tech:** Ai2HTML (part 1) — installation, setup and making multiple graphics ([slides](https://docs.google.com/presentation/d/1-CEmah6Rp540pMDI2UbAGXKWZtrhD4JHzqDYnLQlfGM/edit?usp=sharing))
