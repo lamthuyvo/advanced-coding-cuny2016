@@ -342,9 +342,9 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 ### **Lesson 3 (Tuesday, Sept. 13)**
 
-**Topics:** Static is the new interactive — trends in data visualizations** **([slides](https://docs.google.com/presentation/d/16ytyyvQxF4agE1DZQxfvp_cLfy4LnOmWJsiJV3_8pAs/edit?usp=sharing))
+**Topics:** Static is the new interactive — trends in data visualizations **([slides](https://docs.google.com/presentation/d/16ytyyvQxF4agE1DZQxfvp_cLfy4LnOmWJsiJV3_8pAs/edit?usp=sharing))**
 
-**Craft: **jQuery — a quick review | JavaScript vs jQuery ([slides](https://docs.google.com/presentation/d/1tY65taxvyOyyS3byv6dFEiHOqLQ6_FDomYkASmOtvVY/edit?usp=sharing))
+**Craft:** jQuery — a quick review | JavaScript vs jQuery ([slides](https://docs.google.com/presentation/d/1tY65taxvyOyyS3byv6dFEiHOqLQ6_FDomYkASmOtvVY/edit?usp=sharing))
 
 Everything is data — data structures for different data visualizations; from csv to json to  columns ([slides](https://docs.google.com/presentation/d/1k1gVmVAj9Rh3yOSzZpkw8dYimE-M4gNCqhagHpmBNnU/edit?usp=sharing))
 
@@ -356,7 +356,7 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 4 (Tuesday, Sept. 20)**
 
-**Topics: **Serving graphics to a multi-screen generation ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
+**Topics:** Serving graphics to a multi-screen generation ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
 **Craft**: Responsive web design and the art of media queries ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
