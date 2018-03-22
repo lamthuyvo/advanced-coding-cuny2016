@@ -209,7 +209,7 @@ All assignments will require a total of 250- to 500-words to accompany the inter
 
 4. Produce a team project that explores a single timely and complex topic from different angles using the skills and story forms acquired during the semester. **Final due lesson 14, Dec. 6 by Noon.**
 
-5. **Extra Credit: **Team to build and maintain publishing platform
+5. **Extra Credit:** Team to build and maintain publishing platform
 
 ## **Grading Rubric**
 
