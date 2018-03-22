@@ -1,8 +1,8 @@
 ## **Advanced coding**
 
-## **Course Description** 
+## **Course Description**
 
-This three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects. 
+This three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects.
 
 <table>
   <tr>
@@ -146,14 +146,14 @@ This three-credit course will introduce students to effective, data-driven inter
     <td>11/29/2016</td>
     <td>D3.js (part 3)</td>
     <td>Draft team project </td>
-    <td>Nadja Popovich, interactive developer, The Guardian</td>
+    <td>Quoctrung Bui, The New York Times</td>
     <td>Nicole</td>
   </tr>
   <tr>
     <td>14</td>
     <td>Tuesday</td>
     <td>12/6/2016</td>
-    <td>Growing as a coder</td>
+    <td>Secure that s***</td>
     <td>Final projects (presentation in class)</td>
     <td></td>
     <td></td>
@@ -167,7 +167,7 @@ All the Technology will be taught in the context of gathering, producing, editin
 
 #### Data reporting and analysis
 
-* Data ethics 
+* Data ethics
 
 * Extracting data from PDFs via Tabula
 
@@ -177,23 +177,23 @@ All the Technology will be taught in the context of gathering, producing, editin
 
 *For static graphics *
 
-* Adobe Illustrator 
+* Adobe Illustrator
 
 * Ai2html
 
-* Responsive web design, media queries and serving multiple screens** **
+* Responsive web design, media queries and serving multiple screens*
 
 *For interactive graphics:*
 
 * chosen.js or semantic-ui — ways to bring up data
 
-* Javacript/JQuery — clean, object-oriented and reusable code; 
+* Javacript/JQuery — clean, object-oriented and reusable code;
 
 * parsing and customizing data
 
 * Underscore.js — manipulating/sorting data
 
-* D3 or Data-driven documents (a JavaScript library) — advanced data-visualizations 
+* D3 or Data-driven documents (a JavaScript library) — advanced data-visualizations
 
 ## Assignments & Due Dates
 
@@ -223,7 +223,7 @@ In assessing students' work, the instructor will focus on the following factors 
 
 ### **For Discussions**
 
-* Preparedness: Has the student completed the work necessary in preparation for the discussion (viewing assigned video, completing assigned reading or tutorial)? 
+* Preparedness: Has the student completed the work necessary in preparation for the discussion (viewing assigned video, completing assigned reading or tutorial)?
 
 * Participation: Was the student engaged in the discussion (both paying attention and participating)?
 
@@ -235,13 +235,13 @@ In assessing students' work, the instructor will focus on the following factors 
 
 ## **Assignment Values**
 
- 
+
 
 Grading for individual assignments is based on the level of professionalism of the finished work:
 
 * A Student work that is approaching professional level, with minimal editing required.
 
-* B Good quality student work. 
+* B Good quality student work.
 
 * C Unsatisfactory work.
 
@@ -291,17 +291,17 @@ We will be covering race and ethnicity with the following verticals:
 
 1. Politics and policy
 
-2. Economics 
+2. Economics
 
 3. Arts and culture
 
-4. Education 
+4. Education
 
-5. Immigration 
+5. Immigration
 
-6. Science, Technology and Health 
+6. Science, Technology and Health
 
-During this class you will be assigned a beat which you cover throughout the semester and we will designate 2-3 web editors for extra credit. Once they have been given or chose a beat they will start putting together a quick beat memo: who are the main players in their beat, what are the 3-5 most prominent subjects within their beat and what are the best data sources for their beat. 
+During this class you will be assigned a beat which you cover throughout the semester and we will designate 2-3 web editors for extra credit. Once they have been given or chose a beat they will start putting together a quick beat memo: who are the main players in their beat, what are the 3-5 most prominent subjects within their beat and what are the best data sources for their beat.
 
 ### **Lesson 1 (Tuesday, August 30)**
 
@@ -315,39 +315,39 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Homework:**
 
-* **Assignment 1: **Find datasets and other newsworthy story material that fits the profile of our publication and your beat. You should aim for a news piece that involves charting of a narrative or trend. Think of it as a post for FiveThirtyEight, Vox.com, Quartz, The Upshot, the Wonkblog, the Fix or other short- to medium-form outlet. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before our next class. It has to include:
+* **Assignment 1:** Find datasets and other newsworthy story material that fits the profile of our publication and your beat. You should aim for a news piece that involves charting of a narrative or trend. Think of it as a post for FiveThirtyEight, Vox.com, Quartz, The Upshot, the Wonkblog, the Fix or other short- to medium-form outlet. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before our next class. It has to include:
 
-    * your name 
+    * your name
 
     * a headline
 
-    * a one or two paragraphs that include why it's newsworthy right now, what is at the heart of your story (your nutgraf) and links to data sources 
+    * a one or two paragraphs that include why it's newsworthy right now, what is at the heart of your story (your nutgraf) and links to data sources
 
-    * links to data sources, other research 
+    * links to data sources, other research
 
-### **Lesson**** 2****  (Tuesday, Sept. 6)**
+### **Lesson 2 (Tuesday, Sept. 6)**
 
-**Topics: **Finding stories in your data beat: an imperfect step-by-step guide ([slides](https://docs.google.com/presentation/d/1m9emPcsFVS19VSC8MzpJ72ngzYWRENMtlFIG9JaUitQ/edit?usp=sharing))
+**Topics:** Finding stories in your data beat: an imperfect step-by-step guide ([slides](https://docs.google.com/presentation/d/1m9emPcsFVS19VSC8MzpJ72ngzYWRENMtlFIG9JaUitQ/edit?usp=sharing))
 
 **Craft:** Data headaches — my favorite (advanced) things in Excel ([slides](https://docs.google.com/presentation/d/11LgFogV9vMfg239weMmkGbZZyJYluYTogUusTYRv7iw/edit?usp=sharing))
 
-**Tech: **Illustrator  — make a graphic using Illustrator templates ([slides](https://docs.google.com/presentation/d/1_jNF4_Jfav2ZB3wNIQyDJGqAT3shYUyi94IENf2id-w/edit?usp=sharing) | [template](https://github.com/lamthuyvo/advanced-coding-cuny2016/blob/master/01templates/chart-template.ait))
+**Tech:** Illustrator  — make a graphic using Illustrator templates ([slides](https://docs.google.com/presentation/d/1_jNF4_Jfav2ZB3wNIQyDJGqAT3shYUyi94IENf2id-w/edit?usp=sharing) | [template](https://github.com/lamthuyvo/advanced-coding-cuny2016/blob/master/01templates/chart-template.ait))
 
-**Homework (Assignment 1): **
+**Homework (Assignment 1):**
 
 * Make first draft of your graphic assignment. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before our next class.
 
-### **Lesson**** 3 (Tuesday, Sept. 13)**
+### **Lesson 3 (Tuesday, Sept. 13)**
 
-**Topics:** Static is the new interactive — trends in data visualizations** **([slides](https://docs.google.com/presentation/d/16ytyyvQxF4agE1DZQxfvp_cLfy4LnOmWJsiJV3_8pAs/edit?usp=sharing)) 
+**Topics:** Static is the new interactive — trends in data visualizations** **([slides](https://docs.google.com/presentation/d/16ytyyvQxF4agE1DZQxfvp_cLfy4LnOmWJsiJV3_8pAs/edit?usp=sharing))
 
 **Craft: **jQuery** **— a quick review | JavaScript vs jQuery ([slides](https://docs.google.com/presentation/d/1tY65taxvyOyyS3byv6dFEiHOqLQ6_FDomYkASmOtvVY/edit?usp=sharing))
 
 Everything is data — data structures for different data visualizations; from csv to json to  columns ([slides](https://docs.google.com/presentation/d/1k1gVmVAj9Rh3yOSzZpkw8dYimE-M4gNCqhagHpmBNnU/edit?usp=sharing))
 
-**Tech:** Intro to your code template ([template](https://github.com/lamthuyvo/advanced-coding-cuny2016/tree/master/01templates/01basic-interactive-template)) 
+**Tech:** Intro to your code template ([template](https://github.com/lamthuyvo/advanced-coding-cuny2016/tree/master/01templates/01basic-interactive-template))
 
-**Homework (Assignment 1): **
+**Homework (Assignment 1):**
 
 * Finish your assignment! The final draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon  Sept. 20, 2016.
 
@@ -355,53 +355,54 @@ Everything is data — data structures for different data visualizations; from c
 
 **Topics: **Serving graphics to a multi-screen generation ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
-**Craft****:** Responsive web design and the art of media queries ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
+**Craft**: Responsive web design and the art of media queries ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
-**Tech:**** **Ai2HTML (part 1) — installation, setup and making multiple graphics ([slides](https://docs.google.com/presentation/d/1-CEmah6Rp540pMDI2UbAGXKWZtrhD4JHzqDYnLQlfGM/edit?usp=sharing))
+**Tech:** Ai2HTML (part 1) — installation, setup and making multiple graphics ([slides](https://docs.google.com/presentation/d/1-CEmah6Rp540pMDI2UbAGXKWZtrhD4JHzqDYnLQlfGM/edit?usp=sharing))
 
-### **Lesson**** 5 (Tuesday, Sept. 27)**
+### **Lesson 5 (Tuesday, Sept. 27)**
 
-**Topics: **What’s my data story? Finding insights in microdata ([slides](https://docs.google.com/presentation/d/1IXyBiliAI5oYRhKJs45xgBoi5cGf_f-hgXAVAhlmrk4/edit?usp=sharing)) ** **
+**Topics:** What’s my data story? Finding insights in microdata ([slides](https://docs.google.com/presentation/d/1IXyBiliAI5oYRhKJs45xgBoi5cGf_f-hgXAVAhlmrk4/edit?usp=sharing)) ** **
 
-**Craft:  **Object oriented CSS ([slides](https://docs.google.com/presentation/d/1ejvReoH93tB4MQ__pbAfsxXYgYOIz4C8FwIKayo4_wg/edit?usp=sharing))
+**Craft:** Object oriented CSS ([slides](https://docs.google.com/presentation/d/1ejvReoH93tB4MQ__pbAfsxXYgYOIz4C8FwIKayo4_wg/edit?usp=sharing))
 
 **Tech:** SASS ([slides](https://docs.google.com/presentation/d/1ejvReoH93tB4MQ__pbAfsxXYgYOIz4C8FwIKayo4_wg/edit?usp=sharing))
 
 **Homework:**
 
-* **Assignment 2: **Pitch a data-driven news feature that is produced by using AI2HTML. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. It has to include:
+* **Assignment 2:** Pitch a data-driven news feature that is produced by using AI2HTML. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. It has to include:
 
-    * your name 
+    * your name
 
     * a headline
 
     * a one or two paragraphs that include why it's newsworthy right now, what is at the heart of your story (your nutgraf)
 
-    * links to data sources, other research 
+    * links to data sources, other research
 
 ### **Lesson 6 (October 4, 2016)**
 
-**Topics: **What’s my data story? All the kinds of formats ([slides](https://docs.google.com/presentation/d/1Y4qxkv0H6MXjfDCtQ0xGJILThnnoU2CW1Ne0eshh3bM/edit?usp=sharing))
+**Topics:** What’s my data story? All the kinds of formats ([slides](https://docs.google.com/presentation/d/1Y4qxkv0H6MXjfDCtQ0xGJILThnnoU2CW1Ne0eshh3bM/edit?usp=sharing))
 
-**Craft: **Pseudocoding — coding with pen and paper ([slides](https://docs.google.com/presentation/d/1nGJ5rMxlbznTkXQBjyYfUNgPZPDXX8z85HR8NrXsrNk/edit?usp=sharing))
+**Craft:** Pseudocoding — coding with pen and paper ([slides](https://docs.google.com/presentation/d/1nGJ5rMxlbznTkXQBjyYfUNgPZPDXX8z85HR8NrXsrNk/edit?usp=sharing))
 
-**Tech: **Pseudocode a project with jquery function names and comments
+**Tech:** Pseudocode a project with jquery function names and comments
 
-** **| SASS ([slides](https://docs.google.com/presentation/d/1ejvReoH93tB4MQ__pbAfsxXYgYOIz4C8FwIKayo4_wg/edit?usp=sharing))
+**SASS** ([slides](https://docs.google.com/presentation/d/1ejvReoH93tB4MQ__pbAfsxXYgYOIz4C8FwIKayo4_wg/edit?usp=sharing))
 
 **Homework (Assignment 2):**
 
-* Build a first draft of a data-driven news feature that is produced by using AI2HTML. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. 
+* Build a first draft of a data-driven news feature that is produced by using AI2HTML. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class.
 
-### **Lesson**** 7 (October 11, 2016)**
+### **Lesson 7 (October 11, 2016)**
+
 
 **Craft/Tech**: Make me a news app ([slides](https://docs.google.com/presentation/d/1fMhw5yrFEAytCXCTx_G9qcrfI0SJLW-HNPCr2Oae-vc/edit?usp=sharing))** | **Check yourself before you wreck yourself — what to look for before you deploy ([slides](https://docs.google.com/presentation/d/1M4elMLDIs_FKRt7Yp2RBJmlwKm2QoT9HheO9DhdOoVk/edit?usp=sharing))
 
 ### **Lesson 8 (October 14, 2016)**
 
-**Topics: **Github (for team players) — version control and collaboration, a game ([slides](https://docs.google.com/presentation/d/19vp_b9dkCabqWws8R1T_QJ7f5OJ5LUghFfPIyNbO_4w/edit?usp=sharing)) 
+**Topics:** Github (for team players) — version control and collaboration, a game ([slides](https://docs.google.com/presentation/d/19vp_b9dkCabqWws8R1T_QJ7f5OJ5LUghFfPIyNbO_4w/edit?usp=sharing))
 
-**Craft/Tech:** Semantic-ui — your searchable dropdown ([slides](https://docs.google.com/presentation/d/1ojsLu8kxKUouwfBPB3OyCPVodPmc3D-EQUrheD6z7xo/edit?usp=sharing)) | Use Lam’s Scraper! ([slides](https://docs.google.com/presentation/d/1APHjFb-alIVLOSJ5N5fhbuHyOod1U6Rs1VxQdDDNEUo/edit?usp=sharing)) 
+**Craft/Tech:** Semantic-ui — your searchable dropdown ([slides](https://docs.google.com/presentation/d/1ojsLu8kxKUouwfBPB3OyCPVodPmc3D-EQUrheD6z7xo/edit?usp=sharing)) | Use Lam’s Scraper! ([slides](https://docs.google.com/presentation/d/1APHjFb-alIVLOSJ5N5fhbuHyOod1U6Rs1VxQdDDNEUo/edit?usp=sharing))
 
 **Homework (Assignment 2):**
 
@@ -411,69 +412,69 @@ Everything is data — data structures for different data visualizations; from c
 
 **Homework:**
 
-* **Assignment 3: **Pitch a news app that allows people to understand a data set using a dropdown menu, searchable bar or other interactive component. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. It has to include:
+* **Assignment 3:** Pitch a news app that allows people to understand a data set using a dropdown menu, searchable bar or other interactive component. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. It has to include:
 
-    * your name 
+    * your name
 
     * a headline
 
     * a one or two paragraphs that include why it's newsworthy right now, what is at the heart of your story (your nutgraf)
 
-    * links to data sources, other research 
+    * links to data sources, other research
 
 ### **Lesson 9 (November 1, 2016)**
 
-**Topics: **The art of debugging ([slides](https://docs.google.com/presentation/d/130cbmdap6nbA1mvIKhYUevGuSwgK6HqYwgkicdU2q8I/edit?usp=sharing)) 
+**Topics:** The art of debugging ([slides](https://docs.google.com/presentation/d/130cbmdap6nbA1mvIKhYUevGuSwgK6HqYwgkicdU2q8I/edit?usp=sharing))
 
-**Craft**: UX design ([slides](https://docs.google.com/presentation/d/1kov0ZTG6wy9xP1s6e5IvE5Vga-UfhX_PoS-9OW5HB8M/edit?usp=sharing)) 
+**Craft**: UX design ([slides](https://docs.google.com/presentation/d/1kov0ZTG6wy9xP1s6e5IvE5Vga-UfhX_PoS-9OW5HB8M/edit?usp=sharing))
 
-**Tech: **Why isn’t this working?! — Let’s debug a project  ([slides](https://docs.google.com/presentation/d/130cbmdap6nbA1mvIKhYUevGuSwgK6HqYwgkicdU2q8I/edit?usp=sharing)) 
+**Tech:** Why isn’t this working?! — Let’s debug a project  ([slides](https://docs.google.com/presentation/d/130cbmdap6nbA1mvIKhYUevGuSwgK6HqYwgkicdU2q8I/edit?usp=sharing))
 
 **Homework (Assignment 3):**
 
-* Create a draft for a news app that allows people to understand a data set using a dropdown menu, searchable bar or other interactive component. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. 
+* Create a draft for a news app that allows people to understand a data set using a dropdown menu, searchable bar or other interactive component. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class.
 
 ### **Lesson 10 (November 8, 2016)**
 
-**Topics: **All you care about is yourself — personalization through interactivity** **([slides](https://docs.google.com/presentation/d/1QCxMh72UdN5bzCbeiG5u-NYF9S00jPKk2ZJ7qVYA9bg/edit#slide=id.p))
+**Topics:** All you care about is yourself — personalization through interactivity **([slides](https://docs.google.com/presentation/d/1QCxMh72UdN5bzCbeiG5u-NYF9S00jPKk2ZJ7qVYA9bg/edit#slide=id.p))
 **Craft:** d3.js  — your best friend, your worst enemy, an introduction to how d3 works ([slides](https://docs.google.com/presentation/d/1iPJzlV-eZRQHP67ly599JBJm_qUGnLsXUv4615oUsb4/edit?usp=sharing))
 
-**Tech: **Load data through d3.js ([slides](https://docs.google.com/presentation/d/1iPJzlV-eZRQHP67ly599JBJm_qUGnLsXUv4615oUsb4/edit?usp=sharing))
+**Tech:** Load data through d3.js ([slides](https://docs.google.com/presentation/d/1iPJzlV-eZRQHP67ly599JBJm_qUGnLsXUv4615oUsb4/edit?usp=sharing))
 
 **Homework (Assignment 3):**
 
 * The final version of your second assignment must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by noon the day of next class (November 16, 2016).  
 
-### **Lesson**** 11 (November 18, 2016)**
+### **Lesson 11 (November 18, 2016)**
 
-**Topics: **Interactive wonderlands — how users learn through interaction (games) and how animation can help you do better linear data storytelling (data explorations) ([slides](https://docs.google.com/presentation/d/1ZGs4uGnkjeP8yi5kFyp5d2UVOC5Ybxq6F7RqBOXh25Q/edit?usp=sharing))
-**Craft/****Tech:** Drawing shapes and styling them with d3.js  ([slides](https://docs.google.com/presentation/d/1ZeGsLm14-idnlAQ-_6PMjG92urPe0Cst5fdDsWC8Vvw/edit?usp=sharing))
+**Topics:** Interactive wonderlands — how users learn through interaction (games) and how animation can help you do better linear data storytelling (data explorations) ([slides](https://docs.google.com/presentation/d/1ZGs4uGnkjeP8yi5kFyp5d2UVOC5Ybxq6F7RqBOXh25Q/edit?usp=sharing))
+**Craft/Tech:** Drawing shapes and styling them with d3.js  ([slides](https://docs.google.com/presentation/d/1ZeGsLm14-idnlAQ-_6PMjG92urPe0Cst5fdDsWC8Vvw/edit?usp=sharing))
 
 **Homework:**
 
-* **Assignment 4: **Pitch a team project that explores a single timely and complex topic from different angles using the skills and story forms acquired during the semester. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. It has to include:
+* **Assignment 4:** Pitch a team project that explores a single timely and complex topic from different angles using the skills and story forms acquired during the semester. The pitch must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before class. It has to include:
 
-    * your name 
+    * your name
 
     * a headline
 
     * a one or two paragraphs that include why it's newsworthy right now, what is at the heart of your story (your nutgraf)
 
-    * links to data sources, other research 
+    * links to data sources, other research
 
 ### **Lesson 12 (November 22, 2016)**
 
-**Craft/Tech: **d3 — Scales and axes ([slides](https://docs.google.com/presentation/d/1lGiJQqDE3JGp0eR4eJAJ9HyzivncoeWgA0RAmvLl07U/edit?usp=sharing))
+**Craft/Tech** d3 — Scales and axes ([slides](https://docs.google.com/presentation/d/1lGiJQqDE3JGp0eR4eJAJ9HyzivncoeWgA0RAmvLl07U/edit?usp=sharing))
 
 **In-class lab:** work on your projects
 
 **Homework (Assignment 4):**
 
-* Create a draft of a team project that explores a single timely and complex topic from different angles using the skills and story forms acquired during the semester. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before our next class. 
+* Create a draft of a team project that explores a single timely and complex topic from different angles using the skills and story forms acquired during the semester. The draft must be filed in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7vd4AuMFA-SJSWWwBFHl3ETkGtUh046besWyHQdL-9gH7RA/viewform) by 10 pm the day before our next class.
 
 ### **Lesson 13 (November 29, 2016)**
 
-**Craft/Tech: **d3 — adding pazzazz ([slides](https://docs.google.com/presentation/d/1Wq8yu2b3IPPP4DvOC4YQmbvTPcSf4Z2hDHmDTPxzHfA/edit?usp=sharing)) | securing your information ([slides](https://docs.google.com/presentation/d/1ROr_41gkv-1evnDqjcHaJJGlaHVlnM9M21fuxpw0mo0/edit?usp=sharing))
+**Craft/Tech:** d3 — adding pazzazz ([slides](https://docs.google.com/presentation/d/1Wq8yu2b3IPPP4DvOC4YQmbvTPcSf4Z2hDHmDTPxzHfA/edit?usp=sharing)) | securing your information ([slides](https://docs.google.com/presentation/d/1ROr_41gkv-1evnDqjcHaJJGlaHVlnM9M21fuxpw0mo0/edit?usp=sharing))
 
 **In-class lab:** work on your projects
 
@@ -483,45 +484,42 @@ Everything is data — data structures for different data visualizations; from c
 
 ### **Lesson 14 (December 6, 2016)**
 
-**Topics/Craft: **How to grow from here** **(slides)
-
-**Tech:  **A coder’s bag of tricks — how you can write faster, better code using tools like unminify.com and Sublime Text 2 snippets (slides)
+**Topics/Craft:** Secure that s*** ([slides](https://docs.google.com/presentation/d/1ROr_41gkv-1evnDqjcHaJJGlaHVlnM9M21fuxpw0mo0/edit?usp=sharing))
 
 ## Online Tutorials
 
-**
-****Data, data journalism, code:**
+**Data, data journalism, code:**
 
--Data Journalism Handbook (great examples and approaches): [http://datajournalismhandbook.org/1.0/en/](http://datajournalismhandbook.org/1.0/en/) 
--ProPublica Data Style Guide (it has a great checklist of do`s and dont`s when you work with data and interactive storytelling): [https://github.com/propublica/guides/blob/master/news-apps.md](https://github.com/propublica/guides/blob/master/news-apps.md) 
+-Data Journalism Handbook (great examples and approaches): [http://datajournalismhandbook.org/1.0/en/](http://datajournalismhandbook.org/1.0/en/)
+-ProPublica Data Style Guide (it has a great checklist of do`s and dont`s when you work with data and interactive storytelling): [https://github.com/propublica/guides/blob/master/news-apps.md](https://github.com/propublica/guides/blob/master/news-apps.md)
 -A Guide to Bulletproofing Your Data [https://github.com/propublica/guides/blob/master/data-bulletproofing.md](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)    
--The Quartz guide to bad data (compilation of the most typical issues you encoounter when working with data): [https://github.com/Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide) 
--What is code (Paul Ford explains in depth the bits and bytes of coding): [http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) and the github repository where you can find all the assets of the story and see how it was made [https://github.com/BloombergMedia/whatiscode](https://github.com/BloombergMedia/whatiscode) 
--Field Guide to Media Tech + Product (basic guide to news product development and it`s components) [https://github.com/newsnerdery/docs/blob/master/resources/field-guide.md](https://github.com/newsnerdery/docs/blob/master/resources/field-guide.md) 
+-The Quartz guide to bad data (compilation of the most typical issues you encoounter when working with data): [https://github.com/Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide)
+-What is code (Paul Ford explains in depth the bits and bytes of coding): [http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) and the github repository where you can find all the assets of the story and see how it was made [https://github.com/BloombergMedia/whatiscode](https://github.com/BloombergMedia/whatiscode)
+-Field Guide to Media Tech + Product (basic guide to news product development and it`s components) [https://github.com/newsnerdery/docs/blob/master/resources/field-guide.md](https://github.com/newsnerdery/docs/blob/master/resources/field-guide.md)
 
--What are API`s, why they matter and how to use them (Sunlight Foundation explains it): [https://sunlightfoundation.com/blog/2015/09/08/what-are-apis-why-they-matter-and-how-to-use-them/](https://sunlightfoundation.com/blog/2015/09/08/what-are-apis-why-they-matter-and-how-to-use-them/) 
+-What are API`s, why they matter and how to use them (Sunlight Foundation explains it): [https://sunlightfoundation.com/blog/2015/09/08/what-are-apis-why-they-matter-and-how-to-use-them/](https://sunlightfoundation.com/blog/2015/09/08/what-are-apis-why-they-matter-and-how-to-use-them/)
 
 **Charts and graphs:**
--Datavizcatalogue: charts and graphs according to function, includeing descriptions of each chart type and different tools you can use to build them: [http://datavizcatalogue.com/search.html](http://datavizcatalogue.com/search.html) 
+-Datavizcatalogue: charts and graphs according to function, includeing descriptions of each chart type and different tools you can use to build them: [http://datavizcatalogue.com/search.html](http://datavizcatalogue.com/search.html)
 
 
 
 **Maps:**
--GeoJournalism Handbook [http://geojournalism.org/](http://geojournalism.org/) 
--Choosing the right type of maps for your story [http://geojournalism.org/2013/08/map-styles/](http://geojournalism.org/2013/08/map-styles/) 
--Matthew Ericson "When maps, shouldn’t be maps: [http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/) 
--Baking Chart Data Into Your Page: Using “Dayligraphics rig" to build charts with copytext.js (to inject serialized JSON from a Google Spreadsheet onto their page with one line of template code) [http://blog.apps.npr.org/2015/01/28/dailygraphics-json.html](http://blog.apps.npr.org/2015/01/28/dailygraphics-json.html) 
+-GeoJournalism Handbook [http://geojournalism.org/](http://geojournalism.org/)
+-Choosing the right type of maps for your story [http://geojournalism.org/2013/08/map-styles/](http://geojournalism.org/2013/08/map-styles/)
+-Matthew Ericson "When maps, shouldn’t be maps: [http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
+-Baking Chart Data Into Your Page: Using “Dayligraphics rig" to build charts with copytext.js (to inject serialized JSON from a Google Spreadsheet onto their page with one line of template code) [http://blog.apps.npr.org/2015/01/28/dailygraphics-json.html](http://blog.apps.npr.org/2015/01/28/dailygraphics-json.html)
 
 **NICAR Tutorials and how to’s (compiled by Chrys Wu): **[http://blog.chryswu.com/tag/nicar/#tutorials](http://blog.chryswu.com/tag/nicar/#tutorials)
 
 **Design:**
--Design Principles for News Apps & Graphics, Lena Groeger, ProPublica: [https://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics](https://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics) 
+-Design Principles for News Apps & Graphics, Lena Groeger, ProPublica: [https://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics](https://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
 
 **Html/CSS coding:**
 
 **Github:**
 
--Github: Build a Web Portfolio from Scratch with Github Pages [https://dannguyen.github.io/github-for-portfolios/](https://dannguyen.github.io/github-for-portfolios/) (includes links to other ste by step tutorials on the same topic). Another step by step for portafolio static website [http://knightlab.northwestern.edu/2013/08/02/how-to-portfolio-sites-for-journalists-github-makes-em-cheap-and-kinda-easy/](http://knightlab.northwestern.edu/2013/08/02/how-to-portfolio-sites-for-journalists-github-makes-em-cheap-and-kinda-easy/) 
+-Github: Build a Web Portfolio from Scratch with Github Pages [https://dannguyen.github.io/github-for-portfolios/](https://dannguyen.github.io/github-for-portfolios/) (includes links to other ste by step tutorials on the same topic). Another step by step for portafolio static website [http://knightlab.northwestern.edu/2013/08/02/how-to-portfolio-sites-for-journalists-github-makes-em-cheap-and-kinda-easy/](http://knightlab.northwestern.edu/2013/08/02/how-to-portfolio-sites-for-journalists-github-makes-em-cheap-and-kinda-easy/)
 
 **Persuading with facts:**
 
@@ -532,29 +530,29 @@ Data, persuasion and truth: when it comes to disputed subjects people tend to st
 **Books (from which we should choose chapters):**
 -The Functional Art: An introduction to information graphics and visualization. Alberto Cairo.
 -Lean Analytics, Chapter 5 "Analytics Frameworks" and Chapter 11 “Model Four: Media Site”. Note: I have a .PDF version
--Lean UX: [http://shop.oreilly.com/product/0636920021827.do](http://shop.oreilly.com/product/0636920021827.do) 
+-Lean UX: [http://shop.oreilly.com/product/0636920021827.do](http://shop.oreilly.com/product/0636920021827.do)
 
 **Metrics, engagement, kpis:
 -**The data behind the most read article of 2015 in Chartbeat network
-[http://blog.chartbeat.com/2016/01/12/the-data-behind-the-most-read-article-of-2015/](http://blog.chartbeat.com/2016/01/12/the-data-behind-the-most-read-article-of-2015/) 
+[http://blog.chartbeat.com/2016/01/12/the-data-behind-the-most-read-article-of-2015/](http://blog.chartbeat.com/2016/01/12/the-data-behind-the-most-read-article-of-2015/)
 
-**Blogs:** 
+**Blogs:**
 [Visualizing Data](http://www.visualisingdata.com/), [Information is Beautiful](http://www.informationisbeautiful.net/), [Flowing Data,](http://flowingdata.com/) [Junkcharts](http://junkcharts.typepad.com/)
 
-**Ethics, data, privacy, legal: 
+**Ethics, data, privacy, legal:
 -**"When Is It Ethical to Publish Stolen Data?" Nieman Reports, June 2015. [http://niemanreports.org/articles/when-is-it-ethical-to-publish-stolen-data/](http://niemanreports.org/articles/when-is-it-ethical-to-publish-stolen-data/)  
 
--Jonathan Peters, ["Can I Do That? A Legal Primer for Journalists,"](http://www.cjr.org/united_states_project/can_i_do_that_a_legal_primer_for_journalists.php) *Columbia Journalism Review*, Oct. 2015. [http://www.cjr.org/united_states_project/can_i_do_that_a_legal_primer_for_journalists.php](http://www.cjr.org/united_states_project/can_i_do_that_a_legal_primer_for_journalists.php) 
+-Jonathan Peters, ["Can I Do That? A Legal Primer for Journalists,"](http://www.cjr.org/united_states_project/can_i_do_that_a_legal_primer_for_journalists.php) *Columbia Journalism Review*, Oct. 2015. [http://www.cjr.org/united_states_project/can_i_do_that_a_legal_primer_for_journalists.php](http://www.cjr.org/united_states_project/can_i_do_that_a_legal_primer_for_journalists.php)
 -[“Newsgathering and Privacy”](http://www.dmlp.org/legal-guide/newsgathering-and-privacy) [http://www.dmlp.org/legal-guide/newsgathering-and-privacy](http://www.dmlp.org/legal-guide/newsgathering-and-privacy)
 -[“Recording Phone Calls, Conversations, Meetings and Hearings”](http://www.dmlp.org/legal-guide/recording-phone-calls-conversations-meetings-and-hearings) [http://www.dmlp.org/legal-guide/recording-phone-calls-conversations-meetings-and-hearings](http://www.dmlp.org/legal-guide/recording-phone-calls-conversations-meetings-and-hearings)[
-](http://www.dmlp.org/legal-guide/recording-phone-calls-conversations-meetings-and-hearings)-[“Recording Police Officers and Public Officials,”](http://www.dmlp.org/legal-guide/recording-police-officers-and-public-officials) Digital Media Law Project, Harvard University. [http://www.dmlp.org/legal-guide/recording-police-officers-and-public-officials](http://www.dmlp.org/legal-guide/recording-police-officers-and-public-officials) 
+](http://www.dmlp.org/legal-guide/recording-phone-calls-conversations-meetings-and-hearings)-[“Recording Police Officers and Public Officials,”](http://www.dmlp.org/legal-guide/recording-police-officers-and-public-officials) Digital Media Law Project, Harvard University. [http://www.dmlp.org/legal-guide/recording-police-officers-and-public-officials](http://www.dmlp.org/legal-guide/recording-police-officers-and-public-officials)
 
 **Interviews for different types of storytelling:**
--"Interviewing a Source: Rules of the Road; Talking with Officials and Experts," Journalist’s Resource, Jan. 2013. [http://journalistsresource.org/tip-sheets/reporting/interviewing-a-source](http://journalistsresource.org/tip-sheets/reporting/interviewing-a-source) 
+-"Interviewing a Source: Rules of the Road; Talking with Officials and Experts," Journalist’s Resource, Jan. 2013. [http://journalistsresource.org/tip-sheets/reporting/interviewing-a-source](http://journalistsresource.org/tip-sheets/reporting/interviewing-a-source)
 
 **Statistics tutorials:**
-Hyperstat [http://davidmlane.com/hyperstat/](http://davidmlane.com/hyperstat/). 
-Stat Trek [http://stattrek.com/tutorials/statistics-tutorial.aspx](http://stattrek.com/tutorials/statistics-tutorial.aspx) 
+Hyperstat [http://davidmlane.com/hyperstat/](http://davidmlane.com/hyperstat/).
+Stat Trek [http://stattrek.com/tutorials/statistics-tutorial.aspx](http://stattrek.com/tutorials/statistics-tutorial.aspx)
 
 ## Coaches
 
@@ -606,5 +604,3 @@ The most relevant ones are below:
     <td>github.com/jueyang/call-me-maybe</td>
   </tr>
 </table>
-
-

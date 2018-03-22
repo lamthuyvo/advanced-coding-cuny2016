@@ -30,7 +30,7 @@ $(document).ready(function(){
 	var swoopy = d3.swoopyDrag()
 		    .x(function(d){ return xScale(d.xVal) })
 		    .y(function(d){ return yScale(d.yVal) })
-		    .draggable(false)
+		    .draggable(true)
 		    .annotations(annotations)
 
 	// define your axes
