@@ -1,6 +1,8 @@
-## **Advanced coding**
+## Advanced coding
+
 
 ## **Course Description**
+
 
 This three-credit course will introduce students to effective, data-driven interactive storytelling. Students will learn how to effectively research and pitch stories; they will learn how to employ design and code to tell these stories; and they will learn how to produce, iterate and publish their projects.
 
@@ -175,7 +177,7 @@ All the Technology will be taught in the context of gathering, producing, editin
 
 #### Story Presentation
 
-*For static graphics *
+For static graphics
 
 * Adobe Illustrator
 
@@ -183,7 +185,7 @@ All the Technology will be taught in the context of gathering, producing, editin
 
 * Responsive web design, media queries and serving multiple screens*
 
-*For interactive graphics:*
+For interactive graphics:
 
 * chosen.js or semantic-ui — ways to bring up data
 
@@ -325,7 +327,11 @@ During this class you will be assigned a beat which you cover throughout the sem
 
     * links to data sources, other research
 
+<<<<<<< HEAD
 ### **Lesson 2 (Tuesday, Sept. 6)**
+=======
+### **Lesson 2  (Tuesday, Sept. 6)**
+>>>>>>> ec33642de73b5a171afd75e48d1b065c1a542d2b
 
 **Topics:** Finding stories in your data beat: an imperfect step-by-step guide ([slides](https://docs.google.com/presentation/d/1m9emPcsFVS19VSC8MzpJ72ngzYWRENMtlFIG9JaUitQ/edit?usp=sharing))
 
@@ -341,7 +347,7 @@ During this class you will be assigned a beat which you cover throughout the sem
 
 **Topics:** Static is the new interactive — trends in data visualizations** **([slides](https://docs.google.com/presentation/d/16ytyyvQxF4agE1DZQxfvp_cLfy4LnOmWJsiJV3_8pAs/edit?usp=sharing))
 
-**Craft: **jQuery** **— a quick review | JavaScript vs jQuery ([slides](https://docs.google.com/presentation/d/1tY65taxvyOyyS3byv6dFEiHOqLQ6_FDomYkASmOtvVY/edit?usp=sharing))
+**Craft: **jQuery — a quick review | JavaScript vs jQuery ([slides](https://docs.google.com/presentation/d/1tY65taxvyOyyS3byv6dFEiHOqLQ6_FDomYkASmOtvVY/edit?usp=sharing))
 
 Everything is data — data structures for different data visualizations; from csv to json to  columns ([slides](https://docs.google.com/presentation/d/1k1gVmVAj9Rh3yOSzZpkw8dYimE-M4gNCqhagHpmBNnU/edit?usp=sharing))
 
@@ -355,6 +361,7 @@ Everything is data — data structures for different data visualizations; from c
 
 **Topics: **Serving graphics to a multi-screen generation ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
+<<<<<<< HEAD
 **Craft**: Responsive web design and the art of media queries ([slides](https://docs.google.com/presentation/d/1NBKC5KfRKlJ0eS2yBf67U8qpotrugIP0gUqyQNeeRiw/edit?usp=sharing))
 
 **Tech:** Ai2HTML (part 1) — installation, setup and making multiple graphics ([slides](https://docs.google.com/presentation/d/1-CEmah6Rp540pMDI2UbAGXKWZtrhD4JHzqDYnLQlfGM/edit?usp=sharing))
